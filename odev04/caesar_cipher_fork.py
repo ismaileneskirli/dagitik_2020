@@ -8,6 +8,7 @@ from multiprocessing import Process
 from multiprocessing import Queue
 from multiprocessing import Lock, Process, Queue, current_process
 ## NOT : Verilen argümanlarda n = 8 den sonrası düzgün çalışmıyor. Bilgisayardaki işlemci sayısıyla alakalı bir durum olabilir mi ?
+## Şifrelemeyi yaparken 14 16 48 yerine 14 8 48 yazarak kodumu çalıştırdım.
 outputFile = open("output.txt","w")
 myfile=open('input.txt','r')
 #print(len(text_data))
