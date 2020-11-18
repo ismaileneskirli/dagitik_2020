@@ -4,7 +4,7 @@ import threading
 from datetime import datetime
 import random
 # -*- coding: utf-8 -*-
-## Kodum şuan kısmen çalışıyor fakat eksikler var ve bonusları yapmak istiyorum bu akşam 10 a kadar daha düzgün bir halini göndermek isterim.
+## Kodum suan kismen calisiyor duzeltip bonuslarida yapmak isterim.
 
 
 class connThread(threading.Thread):
