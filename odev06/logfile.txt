@@ -1,0 +1,127 @@
+2020-12-25 18:21:12: Baglanti kuruldu : ('127.0.0.1', 63493)
+2020-12-25 18:21:12: StartingWriteThread-0
+Starting ReadThread-
+2020-12-25 18:21:13: <built-in method strip of str object at 0x00000168BA7902F0> ('127.0.0.1', 63493)
+2020-12-25 18:21:13: NIC enes
+2020-12-25 18:21:13: WRN enes
+2020-12-25 18:21:13: WEL enes
+2020-12-25 18:21:23: Baglanti kuruldu : ('127.0.0.1', 63503)
+2020-12-25 18:21:23: StartingWriteThread-1
+Starting ReadThread-
+2020-12-25 18:21:25: <built-in method strip of str object at 0x00000168BA78C130> ('127.0.0.1', 63503)
+2020-12-25 18:21:25: ERR 
+2020-12-25 18:21:28: <built-in method strip of str object at 0x00000168BA7A1CB0> ('127.0.0.1', 63503)
+2020-12-25 18:21:28: LRR 
+2020-12-25 18:21:29: <built-in method strip of str object at 0x00000168BA78C830> ('127.0.0.1', 63503)
+2020-12-25 18:21:29: ERR 
+2020-12-25 18:21:34: <built-in method strip of str object at 0x00000168BA7A10B0> ('127.0.0.1', 63503)
+2020-12-25 18:21:34: PIN 
+2020-12-25 18:21:34: PON 
+2020-12-25 18:21:41: <built-in method strip of str object at 0x00000168BA7A1DB0> ('127.0.0.1', 63503)
+2020-12-25 18:21:41: NIC enes
+2020-12-25 18:21:41: REJ enes
+2020-12-25 18:21:44: <built-in method strip of str object at 0x00000168BA78C7F0> ('127.0.0.1', 63503)
+2020-12-25 18:21:44: NIC atif
+2020-12-25 18:21:44: WRN atif
+2020-12-25 18:21:44: WEL atif
+2020-12-25 18:21:58: <built-in method strip of str object at 0x00000168BA7A1D70> ('127.0.0.1', 63493)
+2020-12-25 18:21:58: LST enes:atif
+2020-12-25 18:22:21: <built-in method strip of str object at 0x00000168BA7A1F30> ('127.0.0.1', 63503)
+2020-12-25 18:22:21: ERR 
+2020-12-25 18:22:28: <built-in method strip of str object at 0x00000168BA78CA30> ('127.0.0.1', 63503)
+2020-12-25 18:22:28: PRV enes:selam
+2020-12-25 18:22:28: OKP 
+2020-12-25 18:22:41: <built-in method strip of str object at 0x00000168BA78ADA0> ('127.0.0.1', 63493)
+2020-12-25 18:22:41: PRV atif:aa sende mi geldin
+2020-12-25 18:22:41: OKP 
+2020-12-25 18:22:50: <built-in method strip of str object at 0x00000168BA7982B0> ('127.0.0.1', 63493)
+2020-12-25 18:22:50: GNL baþka birisi var mý
+2020-12-25 18:22:50: OKG 
+2020-12-25 18:22:54: <built-in method strip of str object at 0x00000168BA7A1C70> ('127.0.0.1', 63493)
+2020-12-25 18:22:54: LST enes:atif
+2020-12-25 18:23:05: <built-in method strip of str object at 0x00000168BA78AC60> ('127.0.0.1', 63503)
+2020-12-25 18:23:05: PRV enes: ben cikiyorum
+2020-12-25 18:23:05: OKP 
+2020-12-25 18:23:12: <built-in method strip of str object at 0x00000168BA7950F0> ('127.0.0.1', 63503)
+2020-12-25 18:23:12: ERR 
+2020-12-25 18:23:13: <built-in method strip of str object at 0x00000168BA78C970> ('127.0.0.1', 63503)
+2020-12-25 18:23:13: BYE atif
+2020-12-25 18:23:13: BYE atif
+2020-12-25 18:23:13: ExitingWriteThread-1
+2020-12-25 18:23:33: <built-in method strip of str object at 0x00000168BA85D270> ('127.0.0.1', 63493)
+2020-12-25 18:23:33: GNL kalan var mý kontrol edeyim
+2020-12-25 18:23:33: OKG 
+2020-12-25 18:23:34: <built-in method strip of str object at 0x00000168BA7A1F30> ('127.0.0.1', 63493)
+2020-12-25 18:23:34: LST enes
+2020-12-25 18:24:27: Baglanti kuruldu : ('127.0.0.1', 63611)
+2020-12-25 18:24:27: StartingWriteThread-2
+Starting ReadThread-
+2020-12-25 18:24:29: <built-in method strip of str object at 0x00000168BA7A1CF0> ('127.0.0.1', 63611)
+2020-12-25 18:24:29: NIC atif
+2020-12-25 18:24:29: WRN atif
+2020-12-25 18:24:29: WEL atif
+2020-12-25 18:24:37: <built-in method strip of str object at 0x00000168BA78C0B0> ('127.0.0.1', 63611)
+2020-12-25 18:24:37: ERR 
+2020-12-25 18:24:40: <built-in method strip of str object at 0x00000168BA7A14F0> ('127.0.0.1', 63611)
+2020-12-25 18:24:40: ERR 
+2020-12-25 18:24:46: <built-in method strip of str object at 0x00000168BA7A1CF0> ('127.0.0.1', 63611)
+2020-12-25 18:24:46: ERR 
+2020-12-25 18:25:07: <built-in method strip of str object at 0x00000168BA7619D0> ('127.0.0.1', 63611)
+2020-12-25 18:25:07: GNL çýkýþ iþlemi baþarýlý olmuþ ayný isimle tekrar girebildim
+2020-12-25 18:25:07: OKG 
+2020-12-25 18:25:49: <built-in method strip of str object at 0x00000168BA7A1D70> ('127.0.0.1', 63493)
+2020-12-25 18:25:49: LST enes:atif
+2020-12-25 18:26:00: <built-in method strip of str object at 0x00000168BA753E30> ('127.0.0.1', 63493)
+2020-12-25 18:26:00: NOP mehmet
+2020-12-25 18:52:04: Baglanti kuruldu : ('127.0.0.1', 65380)
+2020-12-25 18:52:04: StartingWriteThread-0
+Starting ReadThread-
+2020-12-25 18:52:06: <built-in method strip of str object at 0x0000018A534C1530> ('127.0.0.1', 65380)
+2020-12-25 18:52:06: NIC enes
+2020-12-25 18:52:06: WRN enes
+2020-12-25 18:52:06: WEL enes
+2020-12-25 18:52:09: <built-in method strip of str object at 0x0000018A534BEBB0> ('127.0.0.1', 65380)
+2020-12-25 18:55:10: Baglanti kuruldu : ('127.0.0.1', 65512)
+2020-12-25 18:55:10: StartingWriteThread-0
+Starting ReadThread-
+2020-12-25 18:55:12: <built-in method strip of str object at 0x000001F0652F1170> ('127.0.0.1', 65512)
+2020-12-25 18:55:12: NIC enes
+2020-12-25 18:55:12: WRN enes
+2020-12-25 18:55:12: WEL enes
+2020-12-25 18:55:14: <built-in method strip of str object at 0x000001F0652ED930> ('127.0.0.1', 65512)
+2020-12-25 18:55:14: LST enes
+2020-12-25 18:55:17: <built-in method strip of str object at 0x000001F0652EDAB0> ('127.0.0.1', 65512)
+2020-12-25 18:55:17: GNL selam
+2020-12-25 18:55:17: OKG 
+2020-12-25 19:32:28: Baglanti kuruldu : ('127.0.0.1', 50493)
+2020-12-25 19:32:28: StartingWriteThread-0
+Starting ReadThread-
+2020-12-25 19:32:30: <built-in method strip of str object at 0x000002352D9C13B0> ('127.0.0.1', 50493)
+2020-12-25 19:32:30: NIC enes
+2020-12-25 19:32:30: WRN enes
+2020-12-25 19:32:30: WEL enes
+2020-12-25 19:32:33: Baglanti kuruldu : ('127.0.0.1', 50496)
+2020-12-25 19:32:33: StartingWriteThread-1
+Starting ReadThread-
+2020-12-25 19:32:35: <built-in method strip of str object at 0x000002352D9BD430> ('127.0.0.1', 50496)
+2020-12-25 19:32:35: LRR 
+2020-12-25 19:32:37: <built-in method strip of str object at 0x000002352D9BD830> ('127.0.0.1', 50496)
+2020-12-25 19:32:37: ERR 
+2020-12-25 19:32:49: <built-in method strip of str object at 0x000002352D9CF3F0> ('127.0.0.1', 50496)
+2020-12-25 19:32:49: NIC enes
+2020-12-25 19:32:49: REJ enes
+2020-12-25 19:32:51: <built-in method strip of str object at 0x000002352D9C14B0> ('127.0.0.1', 50496)
+2020-12-25 19:32:51: NIC atif
+2020-12-25 19:32:51: WRN atif
+2020-12-25 19:32:51: WEL atif
+2020-12-25 19:32:54: <built-in method strip of str object at 0x000002352D9CF3B0> ('127.0.0.1', 50496)
+2020-12-25 19:32:54: GNL selam
+2020-12-25 19:32:54: OKG 
+2020-12-25 19:32:56: <built-in method strip of str object at 0x000002352D9CF170> ('127.0.0.1', 50496)
+2020-12-25 19:32:56: BYE atif
+2020-12-25 19:32:56: BYE atif
+2020-12-25 19:32:56: ExitingWriteThread-1
+2020-12-25 19:32:58: <built-in method strip of str object at 0x000002352D9BDBB0> ('127.0.0.1', 50493)
+2020-12-25 19:32:58: ERR 
+2020-12-25 19:32:59: <built-in method strip of str object at 0x000002352D9BD1B0> ('127.0.0.1', 50493)
+2020-12-25 19:32:59: LST enes
