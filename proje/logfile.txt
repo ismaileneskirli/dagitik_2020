@@ -1,0 +1,1530 @@
+###### BU LOG Dosyası kodu yazmaya ilk başladıktan sonra append edilerek üzerine eklenerek devam edildi.
+2021-01-17 14:10:39: Baglanti kuruldu : ('127.0.0.1', 59055)
+2021-01-17 14:10:39: StartingWriteThread-0
+Starting ReadThread-
+2021-01-17 14:10:58: <built-in method strip of str object at 0x0000022353F805F0> ('127.0.0.1', 59055)
+2021-01-17 14:10:58: ERR 
+2021-01-17 14:13:29: Baglanti kuruldu : ('127.0.0.1', 59190)
+2021-01-17 14:13:29: StartingWriteThread-0
+Starting ReadThread-
+2021-01-17 14:13:36: <built-in method strip of str object at 0x0000028981E44830> ('127.0.0.1', 59190)
+2021-01-17 14:13:36: ERR 
+2021-01-17 14:13:54: Baglanti kuruldu : ('127.0.0.1', 59210)
+2021-01-17 14:13:54: StartingWriteThread-0
+Starting ReadThread-
+2021-01-17 14:14:00: <built-in method strip of str object at 0x00000239B6808230> ('127.0.0.1', 59210)
+2021-01-17 14:14:00: ERR 
+2021-01-17 14:14:47: <built-in method strip of str object at 0x00000239B67FFCF0> ('127.0.0.1', 59210)
+2021-01-17 14:14:47: ERR 
+2021-01-17 14:16:29: Baglanti kuruldu : ('127.0.0.1', 59407)
+2021-01-17 14:16:29: StartingWriteThread-0
+Starting ReadThread-
+2021-01-17 14:16:35: <built-in method strip of str object at 0x0000020E1E6945B0> ('127.0.0.1', 59407)
+2021-01-17 14:16:35: ERR 
+2021-01-17 14:16:46: <built-in method strip of str object at 0x0000020E1E68F430> ('127.0.0.1', 59407)
+2021-01-17 14:16:46: ERR 
+2021-01-17 14:18:35: Baglanti kuruldu : ('127.0.0.1', 59609)
+2021-01-17 14:18:35: StartingWriteThread-0
+Starting ReadThread-
+2021-01-17 14:18:40: <built-in method strip of str object at 0x00000217836E8770> ('127.0.0.1', 59609)
+2021-01-17 14:18:40: ERR 
+2021-01-17 14:19:22: <built-in method strip of str object at 0x00000217836DF3F0> ('127.0.0.1', 59609)
+2021-01-17 14:19:22: ERR 
+2021-01-17 14:22:42: <built-in method strip of str object at 0x00000217836E8630> ('127.0.0.1', 59609)
+2021-01-17 14:22:42: PIN 
+2021-01-17 14:22:42: PON 
+2021-01-17 14:22:47: <built-in method strip of str object at 0x00000217836E41F0> ('127.0.0.1', 59609)
+2021-01-17 14:22:47: LST ienesk
+2021-01-17 14:22:58: <built-in method strip of str object at 0x00000217836E7940> ('127.0.0.1', 59609)
+2021-01-17 14:27:05: Baglanti kuruldu : ('127.0.0.1', 60156)
+2021-01-17 14:27:05: StartingWriteThread-0
+Starting ReadThread-
+2021-01-17 14:27:12: <built-in method strip of str object at 0x0000020908914870> ('127.0.0.1', 60156)
+2021-01-17 14:27:12: ERR 
+2021-01-17 14:30:59: Baglanti kuruldu : ('127.0.0.1', 60535)
+2021-01-17 14:30:59: StartingWriteThread-0
+Starting ReadThread-
+2021-01-17 14:31:05: <built-in method strip of str object at 0x0000020E2D7849B0> ('127.0.0.1', 60535)
+2021-01-17 14:31:05: ERR 
+2021-01-17 14:33:33: Baglanti kuruldu : ('127.0.0.1', 60815)
+2021-01-17 14:33:33: StartingWriteThread-0
+Starting ReadThread-
+2021-01-17 14:33:37: <built-in method strip of str object at 0x000001D3ED8349F0> ('127.0.0.1', 60815)
+2021-01-17 14:33:37: ERR 
+2021-01-17 14:41:22: Baglanti kuruldu : ('127.0.0.1', 61330)
+2021-01-17 14:41:22: StartingWriteThread-0
+Starting ReadThread-
+2021-01-17 14:41:27: <built-in method strip of str object at 0x0000025BDECF48B0> ('127.0.0.1', 61330)
+2021-01-17 14:41:27: ERR 
+2021-01-17 14:42:06: Baglanti kuruldu : ('127.0.0.1', 61372)
+2021-01-17 14:42:06: StartingWriteThread-0
+Starting ReadThread-
+2021-01-17 14:42:12: <built-in method strip of str object at 0x000001E5528198B0> ('127.0.0.1', 61372)
+2021-01-17 14:42:12: ERR 
+2021-01-17 14:55:37: Baglanti kuruldu : ('127.0.0.1', 62434)
+2021-01-17 14:55:37: StartingWriteThread-0
+Starting ReadThread-
+2021-01-17 14:55:43: <built-in method strip of str object at 0x000001EB863647F0> ('127.0.0.1', 62434)
+2021-01-17 14:55:43: ERR 
+2021-01-17 14:57:59: Baglanti kuruldu : ('127.0.0.1', 62681)
+2021-01-17 14:57:59: StartingWriteThread-0
+Starting ReadThread-
+2021-01-17 14:58:03: <built-in method strip of str object at 0x000001F99A7188F0> ('127.0.0.1', 62681)
+2021-01-17 14:58:03: WRN ienesk
+2021-01-17 14:58:03: WEL Default
+2021-01-17 15:21:01: <built-in method strip of str object at 0x000001F99A718130> ('127.0.0.1', 62681)
+2021-01-17 15:21:01: ERR 
+2021-01-17 15:22:24: Baglanti kuruldu : ('127.0.0.1', 63290)
+2021-01-17 15:22:24: StartingWriteThread-0
+Starting ReadThread-
+2021-01-17 15:22:28: <built-in method strip of str object at 0x0000020D20E83A70> ('127.0.0.1', 63290)
+2021-01-17 15:22:28: SUC ahmet
+2021-01-17 15:22:53: <built-in method strip of str object at 0x0000020D20E838F0> ('127.0.0.1', 63290)
+2021-01-17 15:22:53: ERR 
+2021-01-17 15:23:47: <built-in method strip of str object at 0x0000020D20E830F0> ('127.0.0.1', 63290)
+2021-01-17 15:23:47: PIN 
+2021-01-17 15:23:47: PON 
+2021-01-17 15:23:51: <built-in method strip of str object at 0x0000020D20E7E1B0> ('127.0.0.1', 63290)
+2021-01-17 15:23:51: ERR 
+2021-01-17 15:24:29: <built-in method strip of str object at 0x0000020D20E83170> ('127.0.0.1', 63290)
+2021-01-17 15:25:21: Baglanti kuruldu : ('127.0.0.1', 63633)
+2021-01-17 15:25:21: StartingWriteThread-0
+Starting ReadThread-
+2021-01-17 15:25:25: <built-in method strip of str object at 0x0000016D68674830> ('127.0.0.1', 63633)
+2021-01-17 15:25:25: SUC ahmet
+2021-01-17 15:25:37: <built-in method strip of str object at 0x0000016D6866EA30> ('127.0.0.1', 63633)
+2021-01-17 15:26:00: Baglanti kuruldu : ('127.0.0.1', 63696)
+2021-01-17 15:26:00: StartingWriteThread-0
+Starting ReadThread-
+2021-01-17 15:26:04: <built-in method strip of str object at 0x0000021343714770> ('127.0.0.1', 63696)
+2021-01-17 15:26:04: SUC ahmet
+2021-01-17 15:26:08: <built-in method strip of str object at 0x000002134370F9F0> ('127.0.0.1', 63696)
+2021-01-17 15:26:08: NOP 
+2021-01-17 15:32:41: <built-in method strip of str object at 0x0000021343714630> ('127.0.0.1', 63696)
+2021-01-17 15:32:41: NOP 
+2021-01-17 15:33:48: Baglanti kuruldu : ('127.0.0.1', 64740)
+2021-01-17 15:33:48: StartingWriteThread-0
+Starting ReadThread-
+2021-01-17 15:33:53: <built-in method strip of str object at 0x000001DD057A3B70> ('127.0.0.1', 64740)
+2021-01-17 15:33:53: SUC ahmet
+2021-01-17 15:34:00: <built-in method strip of str object at 0x000001DD057A71F0> ('127.0.0.1', 64740)
+2021-01-17 15:34:00: WRN ahmet
+2021-01-17 15:34:00: WEL ahmet
+2021-01-17 15:34:14: <built-in method strip of str object at 0x000001DD057A31B0> ('127.0.0.1', 64740)
+2021-01-17 15:34:14: LST ienesk:mehmet:ahmet
+2021-01-17 15:34:26: <built-in method strip of str object at 0x000001DD05790BC0> ('127.0.0.1', 64740)
+2021-01-17 15:36:30: Baglanti kuruldu : ('127.0.0.1', 65179)
+2021-01-17 15:36:30: StartingWriteThread-0
+Starting ReadThread-
+2021-01-17 15:36:38: <built-in method strip of str object at 0x0000028C144479F0> ('127.0.0.1', 65179)
+2021-01-17 15:36:38: WRN ienesk
+2021-01-17 15:36:38: WEL Default
+2021-01-17 15:36:51: <built-in method strip of str object at 0x0000028C1443FC70> ('127.0.0.1', 65179)
+2021-01-17 15:36:51: LST ienesk:mehmet
+2021-01-17 15:36:58: <built-in method strip of str object at 0x0000028C14448210> ('127.0.0.1', 65179)
+2021-01-17 15:36:58: NOP mehmet
+2021-01-17 15:36:58: ERR 
+2021-01-17 16:35:01: Baglanti kuruldu : ('127.0.0.1', 57369)
+2021-01-17 16:35:01: StartingWriteThread-0
+Starting ReadThread-
+2021-01-17 16:35:09: <built-in method strip of str object at 0x0000025BF2674430> ('127.0.0.1', 57369)
+2021-01-17 16:35:09: WRN ienesk
+2021-01-17 16:35:09: WEL Default
+2021-01-17 16:35:14: <built-in method strip of str object at 0x0000025BF2670EF0> ('127.0.0.1', 57369)
+2021-01-17 16:35:14: ERR 
+2021-01-17 16:35:18: <built-in method strip of str object at 0x0000025BF2670D30> ('127.0.0.1', 57369)
+2021-01-17 16:35:18: ERR 
+2021-01-17 16:35:29: <built-in method strip of str object at 0x0000025BF2657CB0> ('127.0.0.1', 57369)
+2021-01-17 16:35:29: ODA Default
+2021-01-17 16:35:32: <built-in method strip of str object at 0x0000025BF2670E70> ('127.0.0.1', 57369)
+2021-01-17 16:35:32: ERR 
+2021-01-17 16:36:53: <built-in method strip of str object at 0x0000025BF2670DF0> ('127.0.0.1', 57369)
+2021-01-17 16:36:53: LST ienesk:mehmet
+2021-01-17 16:37:20: <built-in method strip of str object at 0x0000025BF2748FB0> ('127.0.0.1', 57369)
+2021-01-17 16:37:20: ODA Default
+2021-01-17 16:37:22: <built-in method strip of str object at 0x0000025BF2674470> ('127.0.0.1', 57369)
+2021-01-17 16:37:22: ERR 
+2021-01-17 16:38:32: Baglanti kuruldu : ('127.0.0.1', 57601)
+2021-01-17 16:38:32: StartingWriteThread-1
+Starting ReadThread-
+2021-01-17 16:38:46: <built-in method strip of str object at 0x0000025BF26708B0> ('127.0.0.1', 57601)
+2021-01-17 16:38:46: SUC ahmet
+2021-01-17 16:38:50: <built-in method strip of str object at 0x0000025BF266DEB0> ('127.0.0.1', 57601)
+2021-01-17 16:38:50: WRN ahmet
+2021-01-17 16:38:50: WEL ahmet
+2021-01-17 16:38:54: <built-in method strip of str object at 0x0000025BF266D270> ('127.0.0.1', 57601)
+2021-01-17 16:38:54: ERR 
+2021-01-17 16:40:54: Baglanti kuruldu : ('127.0.0.1', 57802)
+2021-01-17 16:40:54: StartingWriteThread-0
+Starting ReadThread-
+2021-01-17 16:40:56: Baglanti kuruldu : ('127.0.0.1', 57806)
+2021-01-17 16:40:56: StartingWriteThread-1
+Starting ReadThread-
+2021-01-17 16:41:05: <built-in method strip of str object at 0x000001F35F5C5D30> ('127.0.0.1', 57802)
+2021-01-17 16:41:05: WRN ienesk
+2021-01-17 16:41:05: WEL ienesk
+2021-01-17 16:41:09: <built-in method strip of str object at 0x000001F35F5C0070> ('127.0.0.1', 57806)
+2021-01-17 16:41:09: SUC ahmet
+2021-01-17 16:41:15: <built-in method strip of str object at 0x000001F35F5BDBF0> ('127.0.0.1', 57806)
+2021-01-17 16:41:15: WRN ahmet
+2021-01-17 16:41:15: WEL ahmet
+2021-01-17 16:41:31: <built-in method strip of str object at 0x000001F35F5C0570> ('127.0.0.1', 57802)
+2021-01-17 16:41:31: ODA ienesk
+2021-01-17 16:41:36: <built-in method strip of str object at 0x000001F35F5B4A30> ('127.0.0.1', 57806)
+2021-01-17 16:41:36: ODA ahmet
+2021-01-17 16:41:37: <built-in method strip of str object at 0x000001F35F5BD8F0> ('127.0.0.1', 57806)
+2021-01-17 16:41:37: LST enesinodasi:ahmetinodasi
+2021-01-17 16:41:57: <built-in method strip of str object at 0x000001F35F5C24E0> ('127.0.0.1', 57802)
+2021-01-17 16:41:57: BIE ienesk
+2021-01-17 18:14:42: Baglanti kuruldu : ('127.0.0.1', 50387)
+2021-01-17 18:14:42: StartingWriteThread-0
+Starting ReadThread-
+2021-01-17 18:14:48: <built-in method strip of str object at 0x00000286EDAA5CB0> ('127.0.0.1', 50387)
+2021-01-17 18:14:48: WRN ienesk
+2021-01-17 18:14:48: WEL ienesk
+2021-01-17 18:15:06: <built-in method strip of str object at 0x00000286EDAA1EF0> ('127.0.0.1', 50387)
+2021-01-17 18:15:06: ODA ienesk
+2021-01-17 18:15:12: <built-in method strip of str object at 0x00000286EDAA1CF0> ('127.0.0.1', 50387)
+2021-01-17 18:15:12: BIE ienesk
+2021-01-17 18:15:20: <built-in method strip of str object at 0x00000286EDAA1EF0> ('127.0.0.1', 50387)
+2021-01-17 18:15:20: LST enesinodasi
+2021-01-17 18:15:25: <built-in method strip of str object at 0x00000286EDAA1E30> ('127.0.0.1', 50387)
+2021-01-17 18:15:25: LST ienesk
+2021-01-17 18:15:34: Baglanti kuruldu : ('127.0.0.1', 50428)
+2021-01-17 18:15:34: StartingWriteThread-1
+Starting ReadThread-
+2021-01-17 18:15:40: <built-in method strip of str object at 0x00000286EDA937F0> ('127.0.0.1', 50428)
+2021-01-17 18:15:40: SUC ahmet
+2021-01-17 18:15:45: <built-in method strip of str object at 0x00000286EDA9E230> ('127.0.0.1', 50428)
+2021-01-17 18:15:45: WRN ahmet
+2021-01-17 18:15:45: WEL ahmet
+2021-01-17 18:15:49: <built-in method strip of str object at 0x00000286EDA9EAF0> ('127.0.0.1', 50428)
+2021-01-17 18:15:49: BIE ahmet
+2021-01-17 18:15:56: <built-in method strip of str object at 0x00000286EDA9E230> ('127.0.0.1', 50428)
+2021-01-17 18:15:56: LST ienesk:ahmet
+2021-01-17 18:16:01: <built-in method strip of str object at 0x00000286EDA9EB70> ('127.0.0.1', 50428)
+2021-01-17 18:16:01: LST ienesk
+2021-01-17 18:16:42: <built-in method strip of str object at 0x00000286EDAA8130> ('127.0.0.1', 50428)
+2021-01-17 18:16:42: OKC ahmet
+2021-01-17 18:16:52: <built-in method strip of str object at 0x00000286EDA9EB70> ('127.0.0.1', 50428)
+2021-01-17 18:16:52: BYE ahmet
+2021-01-17 18:16:52: BYE ahmet
+2021-01-17 18:16:52: ExitingWriteThread-1
+2021-01-17 18:17:02: Baglanti kuruldu : ('127.0.0.1', 50484)
+2021-01-17 18:17:02: StartingWriteThread-2
+Starting ReadThread-
+2021-01-17 18:17:06: <built-in method strip of str object at 0x00000286EDAA52F0> ('127.0.0.1', 50484)
+2021-01-17 18:17:06: WRN ahmet
+2021-01-17 18:17:06: WEL ahmet
+2021-01-17 18:17:15: Baglanti kuruldu : ('127.0.0.1', 50491)
+2021-01-17 18:17:15: StartingWriteThread-3
+Starting ReadThread-
+2021-01-17 18:17:20: <built-in method strip of str object at 0x00000286EDA9C710> ('127.0.0.1', 50491)
+2021-01-17 18:17:20: NOP 
+2021-01-17 18:34:39: Baglanti kuruldu : ('127.0.0.1', 51968)
+2021-01-17 18:34:39: StartingWriteThread-0
+Starting ReadThread-
+2021-01-17 18:34:45: <built-in method strip of str object at 0x000001995EBB5D70> ('127.0.0.1', 51968)
+2021-01-17 18:34:45: WRN ienesk
+2021-01-17 18:34:45: WEL ienesk
+2021-01-17 18:34:55: <built-in method strip of str object at 0x000001995EBB5630> ('127.0.0.1', 51968)
+2021-01-17 18:34:55: ODA ienesk
+2021-01-17 18:35:01: <built-in method strip of str object at 0x000001995EBB8030> ('127.0.0.1', 51968)
+2021-01-17 18:41:43: Baglanti kuruldu : ('127.0.0.1', 52284)
+2021-01-17 18:41:43: StartingWriteThread-0
+Starting ReadThread-
+2021-01-17 18:41:49: <built-in method strip of str object at 0x000001F4656680F0> ('127.0.0.1', 52284)
+2021-01-17 18:41:49: WRN ienesk
+2021-01-17 18:41:49: WEL ienesk
+2021-01-17 18:41:55: Baglanti kuruldu : ('127.0.0.1', 52291)
+2021-01-17 18:41:55: StartingWriteThread-1
+Starting ReadThread-
+2021-01-17 18:42:03: <built-in method strip of str object at 0x000001F4656651F0> ('127.0.0.1', 52291)
+2021-01-17 18:42:03: SUC atif
+2021-01-17 18:42:12: <built-in method strip of str object at 0x000001F4656654F0> ('127.0.0.1', 52291)
+2021-01-17 18:42:12: WRN atif
+2021-01-17 18:42:12: WEL atif
+2021-01-17 18:42:22: <built-in method strip of str object at 0x000001F465665130> ('127.0.0.1', 52284)
+2021-01-17 18:42:22: ODA ienesk
+2021-01-17 18:42:25: <built-in method strip of str object at 0x000001F4656621B0> ('127.0.0.1', 52284)
+2021-01-17 18:42:25: BIE ienesk
+2021-01-17 18:42:41: <built-in method strip of str object at 0x000001F465662930> ('127.0.0.1', 52291)
+2021-01-17 18:42:41: BIE atif
+2021-01-17 18:42:57: <built-in method strip of str object at 0x000001F465662530> ('127.0.0.1', 52291)
+2021-01-17 18:44:14: Baglanti kuruldu : ('127.0.0.1', 52456)
+2021-01-17 18:44:14: StartingWriteThread-0
+Starting ReadThread-
+2021-01-17 18:44:22: <built-in method strip of str object at 0x00000197694BD130> ('127.0.0.1', 52456)
+2021-01-17 18:44:22: WRN ienesk
+2021-01-17 18:44:22: WEL ienesk
+2021-01-17 18:44:27: <built-in method strip of str object at 0x00000197694B58F0> ('127.0.0.1', 52456)
+2021-01-17 18:44:27: GNL selam
+2021-01-17 18:44:27: OKG 
+2021-01-17 18:44:40: Baglanti kuruldu : ('127.0.0.1', 52477)
+2021-01-17 18:44:40: StartingWriteThread-1
+Starting ReadThread-
+2021-01-17 18:45:01: <built-in method strip of str object at 0x00000197694B51F0> ('127.0.0.1', 52477)
+2021-01-17 18:45:01: WRN mehmet
+2021-01-17 18:45:01: WEL mehmet
+2021-01-17 18:45:07: <built-in method strip of str object at 0x00000197694B2B70> ('127.0.0.1', 52477)
+2021-01-17 18:45:07: GNL beri
+2021-01-17 18:45:07: OKG 
+2021-01-17 18:45:23: <built-in method strip of str object at 0x00000197694B3580> ('127.0.0.1', 52477)
+2021-01-17 18:45:23: PRV ienesk:naber
+2021-01-17 18:45:23: OKP 
+2021-01-17 18:46:52: <built-in method strip of str object at 0x00000197694B2B70> ('127.0.0.1', 52477)
+2021-01-17 18:46:52: ERR 
+2021-01-17 18:46:56: <built-in method strip of str object at 0x00000197694B51B0> ('127.0.0.1', 52477)
+2021-01-17 19:33:36: Baglanti kuruldu : ('127.0.0.1', 56204)
+2021-01-17 19:33:36: StartingWriteThread-0
+Starting ReadThread-
+2021-01-17 19:33:41: <built-in method strip of str object at 0x0000020927D3E1B0> ('127.0.0.1', 56204)
+2021-01-17 19:33:41: WRN ienesk
+2021-01-17 19:33:41: WEL ienesk
+2021-01-17 19:33:47: <built-in method strip of str object at 0x0000020927D36EF0> ('127.0.0.1', 56204)
+2021-01-17 19:33:47: ODA ienesk
+2021-01-17 19:33:52: <built-in method strip of str object at 0x0000020927D361F0> ('127.0.0.1', 56204)
+2021-01-17 19:33:52: BIE ienesk
+2021-01-17 19:33:55: Baglanti kuruldu : ('127.0.0.1', 56230)
+2021-01-17 19:33:55: StartingWriteThread-1
+Starting ReadThread-
+2021-01-17 19:34:00: <built-in method strip of str object at 0x0000020927D360B0> ('127.0.0.1', 56230)
+2021-01-17 19:34:00: NOP 
+2021-01-17 19:34:04: <built-in method strip of str object at 0x0000020927D32AF0> ('127.0.0.1', 56230)
+2021-01-17 19:34:04: WRN mehmet
+2021-01-17 19:34:04: WEL mehmet
+2021-01-17 19:34:08: <built-in method strip of str object at 0x0000020927D390B0> ('127.0.0.1', 56230)
+2021-01-17 19:34:08: BIE mehmet
+2021-01-17 19:34:13: <built-in method strip of str object at 0x0000020927D390F0> ('127.0.0.1', 56230)
+2021-01-17 19:36:00: Baglanti kuruldu : ('127.0.0.1', 56566)
+2021-01-17 19:36:00: StartingWriteThread-0
+Starting ReadThread-
+2021-01-17 19:36:04: <built-in method strip of str object at 0x000001C932719070> ('127.0.0.1', 56566)
+2021-01-17 19:36:04: WRN ienesk
+2021-01-17 19:36:04: WEL ienesk
+2021-01-17 19:36:08: <built-in method strip of str object at 0x000001C932716930> ('127.0.0.1', 56566)
+2021-01-17 19:36:08: ODA ienesk
+2021-01-17 19:36:14: <built-in method strip of str object at 0x000001C93271D3A0> ('127.0.0.1', 56566)
+2021-01-17 19:36:14: NRM ienesk
+2021-01-17 19:36:38: Baglanti kuruldu : ('127.0.0.1', 56613)
+2021-01-17 19:36:38: StartingWriteThread-1
+Starting ReadThread-
+2021-01-17 19:36:43: <built-in method strip of str object at 0x000001C932716A30> ('127.0.0.1', 56613)
+2021-01-17 19:36:43: WRN mehmet
+2021-01-17 19:36:43: WEL mehmet
+2021-01-17 19:36:52: <built-in method strip of str object at 0x000001C9327166B0> ('127.0.0.1', 56613)
+2021-01-17 19:36:52: BIE mehmet
+2021-01-17 19:36:58: <built-in method strip of str object at 0x000001C932712AF0> ('127.0.0.1', 56566)
+2021-01-17 19:36:58: BIE ienesk
+2021-01-17 19:37:08: <built-in method strip of str object at 0x000001C93271D300> ('127.0.0.1', 56613)
+2021-01-17 19:37:08: ERR 
+2021-01-17 19:37:17: <built-in method strip of str object at 0x000001C932712830> ('127.0.0.1', 56613)
+2021-01-17 19:37:17: LST ienesk:mehmet
+2021-01-17 19:37:25: <built-in method strip of str object at 0x000001C932712BB0> ('127.0.0.1', 56613)
+2021-01-17 19:37:25: LST enesinodasi
+2021-01-17 19:37:48: <built-in method strip of str object at 0x000001C932714580> ('127.0.0.1', 56613)
+2021-01-17 19:37:48: ERR 
+2021-01-17 19:38:55: <built-in method strip of str object at 0x000001C9327122B0> ('127.0.0.1', 56613)
+2021-01-17 19:38:55: LST ienesk:mehmet
+2021-01-17 19:39:32: <built-in method strip of str object at 0x000001C932712970> ('127.0.0.1', 56613)
+2021-01-17 19:39:32: GNL selam
+2021-01-17 19:39:32: OKG 
+2021-01-17 19:42:34: <built-in method strip of str object at 0x000001C93271D300> ('127.0.0.1', 56613)
+2021-01-17 19:42:34: ERR 
+2021-01-17 19:42:47: Baglanti kuruldu : ('127.0.0.1', 57144)
+2021-01-17 19:42:47: StartingWriteThread-0
+Starting ReadThread-
+2021-01-17 19:42:51: <built-in method strip of str object at 0x00000192A30D9630> ('127.0.0.1', 57144)
+2021-01-17 19:42:51: WRN ienesk
+2021-01-17 19:42:51: WEL ienesk
+2021-01-17 19:42:55: <built-in method strip of str object at 0x00000192A30D6E30> ('127.0.0.1', 57144)
+2021-01-17 19:42:55: ODA ienesk
+2021-01-17 19:42:59: <built-in method strip of str object at 0x00000192A30D69B0> ('127.0.0.1', 57144)
+2021-01-17 19:42:59: BIE ienesk
+2021-01-17 19:43:07: <built-in method strip of str object at 0x00000192A30DCA80> ('127.0.0.1', 57144)
+2021-01-17 19:43:07: SEN 
+2021-01-17 19:45:56: Baglanti kuruldu : ('127.0.0.1', 57453)
+2021-01-17 19:45:56: StartingWriteThread-0
+Starting ReadThread-
+2021-01-17 19:46:04: <built-in method strip of str object at 0x00000192E2D7E3F0> ('127.0.0.1', 57453)
+2021-01-17 19:46:04: WRN ienesk
+2021-01-17 19:46:04: WEL ienesk
+2021-01-17 19:46:08: <built-in method strip of str object at 0x00000192E2D761F0> ('127.0.0.1', 57453)
+2021-01-17 19:46:08: ODA ienesk
+2021-01-17 19:46:12: <built-in method strip of str object at 0x00000192E2D7E330> ('127.0.0.1', 57453)
+2021-01-17 19:46:12: NRM ienesk
+2021-01-17 19:46:21: <built-in method strip of str object at 0x00000192E2D76AF0> ('127.0.0.1', 57453)
+2021-01-17 19:46:21: BIE ienesk
+2021-01-17 19:46:29: <built-in method strip of str object at 0x00000192E2D7D490> ('127.0.0.1', 57453)
+2021-01-17 19:46:29: ERR 
+2021-01-17 19:47:07: <built-in method strip of str object at 0x00000192E2D76270> ('127.0.0.1', 57453)
+2021-01-17 19:47:07: LST ienesk
+2021-01-17 19:48:38: Baglanti kuruldu : ('127.0.0.1', 56045)
+2021-01-17 19:48:38: StartingWriteThread-0
+Starting ReadThread-
+2021-01-17 19:48:41: <built-in method strip of str object at 0x000001C672C593B0> ('127.0.0.1', 56045)
+2021-01-17 19:48:41: WRN ienesk
+2021-01-17 19:48:41: WEL ienesk
+2021-01-17 19:48:46: <built-in method strip of str object at 0x000001C672C591F0> ('127.0.0.1', 56045)
+2021-01-17 19:48:46: ODA ienesk
+2021-01-17 19:48:48: <built-in method strip of str object at 0x000001C672C567F0> ('127.0.0.1', 56045)
+2021-01-17 19:48:48: BIE ienesk
+2021-01-17 19:48:51: <built-in method strip of str object at 0x000001C672C56170> ('127.0.0.1', 56045)
+2021-01-17 19:48:51: SEN 
+2021-01-17 19:49:38: Baglanti kuruldu : ('127.0.0.1', 56153)
+2021-01-17 19:49:38: StartingWriteThread-0
+Starting ReadThread-
+2021-01-17 19:49:49: <built-in method strip of str object at 0x000001DE363395B0> ('127.0.0.1', 56153)
+2021-01-17 19:49:49: WRN ienesk
+2021-01-17 19:49:49: WEL ienesk
+2021-01-17 19:49:53: <built-in method strip of str object at 0x000001DE36336830> ('127.0.0.1', 56153)
+2021-01-17 19:49:53: ODA ienesk
+2021-01-17 19:49:55: <built-in method strip of str object at 0x000001DE36336DF0> ('127.0.0.1', 56153)
+2021-01-17 19:49:55: BIE ienesk
+2021-01-17 19:49:58: <built-in method strip of str object at 0x000001DE36336FB0> ('127.0.0.1', 56153)
+2021-01-17 19:49:58: SEN 
+2021-01-17 20:08:29: Baglanti kuruldu : ('127.0.0.1', 58221)
+2021-01-17 20:08:29: StartingWriteThread-0
+Starting ReadThread-
+2021-01-17 20:08:34: <built-in method strip of str object at 0x000002BF2CCCA230> ('127.0.0.1', 58221)
+2021-01-17 20:08:34: WRN ienesk
+2021-01-17 20:08:34: WEL ienesk
+2021-01-17 20:08:39: <built-in method strip of str object at 0x000002BF2CCC6CF0> ('127.0.0.1', 58221)
+2021-01-17 20:08:39: ODA ienesk
+2021-01-17 20:08:42: <built-in method strip of str object at 0x000002BF2CCC6770> ('127.0.0.1', 58221)
+2021-01-17 20:13:05: Baglanti kuruldu : ('127.0.0.1', 58513)
+2021-01-17 20:13:05: StartingWriteThread-0
+Starting ReadThread-
+2021-01-17 20:13:19: <built-in method strip of str object at 0x000001DDABA4A5B0> ('127.0.0.1', 58513)
+2021-01-17 20:13:19: WRN ienesk
+2021-01-17 20:13:19: WEL ienesk
+2021-01-17 20:13:28: <built-in method strip of str object at 0x000001DDABA4AB30> ('127.0.0.1', 58513)
+2021-01-17 20:13:28: ODA ienesk
+2021-01-17 20:13:31: <built-in method strip of str object at 0x000001DDABA461B0> ('127.0.0.1', 58513)
+2021-01-17 20:13:31: BIE ienesk
+2021-01-17 20:13:35: <built-in method strip of str object at 0x000001DDABA46CB0> ('127.0.0.1', 58513)
+2021-01-17 20:13:35: ODA ienesk
+2021-01-17 20:13:36: <built-in method strip of str object at 0x000001DDABA46870> ('127.0.0.1', 58513)
+2021-01-17 20:13:36: BIE ienesk
+2021-01-17 20:13:45: <built-in method strip of str object at 0x000001DDABA461B0> ('127.0.0.1', 58513)
+2021-01-17 20:13:45: ERR 
+2021-01-17 20:24:40: Baglanti kuruldu : ('127.0.0.1', 59132)
+2021-01-17 20:24:40: StartingWriteThread-0
+Starting ReadThread-
+2021-01-17 20:24:47: <built-in method strip of str object at 0x000001AF9A2CA4F0> ('127.0.0.1', 59132)
+2021-01-17 20:24:47: WRN ienesk
+2021-01-17 20:24:47: WEL ienesk
+2021-01-17 20:24:50: <built-in method strip of str object at 0x000001AF9A2CE330> ('127.0.0.1', 59132)
+2021-01-17 20:24:50: ODA ienesk
+2021-01-17 20:24:54: <built-in method strip of str object at 0x000001AF9A2C6C70> ('127.0.0.1', 59132)
+2021-01-17 20:24:54: ODA ienesk
+2021-01-17 20:25:00: <built-in method strip of str object at 0x000001AF9A2C69B0> ('127.0.0.1', 59132)
+2021-01-17 20:25:00: BIE ienesk
+2021-01-17 20:25:03: <built-in method strip of str object at 0x000001AF9A2C6430> ('127.0.0.1', 59132)
+2021-01-17 20:25:03: BIE ienesk
+2021-01-17 20:25:05: <built-in method strip of str object at 0x000001AF9A2CA4B0> ('127.0.0.1', 59132)
+2021-01-17 20:25:05: ERR 
+2021-01-17 20:27:32: Baglanti kuruldu : ('127.0.0.1', 59393)
+2021-01-17 20:27:32: StartingWriteThread-0
+Starting ReadThread-
+2021-01-17 20:27:36: <built-in method strip of str object at 0x0000024A303FE0F0> ('127.0.0.1', 59393)
+2021-01-17 20:27:36: WRN ienesk
+2021-01-17 20:27:36: WEL ienesk
+2021-01-17 20:27:38: <built-in method strip of str object at 0x0000024A303F6E70> ('127.0.0.1', 59393)
+2021-01-17 20:27:38: ODA ienesk
+2021-01-17 20:27:40: <built-in method strip of str object at 0x0000024A303F6DB0> ('127.0.0.1', 59393)
+2021-01-17 20:27:40: BIE ienesk
+2021-01-17 20:27:43: <built-in method strip of str object at 0x0000024A303F6AF0> ('127.0.0.1', 59393)
+2021-01-17 20:27:43: ODA ienesk
+2021-01-17 20:27:46: <built-in method strip of str object at 0x0000024A303FA6F0> ('127.0.0.1', 59393)
+2021-01-17 20:27:46: BIE ienesk
+2021-01-17 20:27:51: <built-in method strip of str object at 0x0000024A303FE0F0> ('127.0.0.1', 59393)
+2021-01-17 20:29:12: Baglanti kuruldu : ('127.0.0.1', 59517)
+2021-01-17 20:29:12: StartingWriteThread-0
+Starting ReadThread-
+2021-01-17 20:29:15: <built-in method strip of str object at 0x00000282FE1AA530> ('127.0.0.1', 59517)
+2021-01-17 20:29:15: WRN mehmet
+2021-01-17 20:29:15: WEL mehmet
+2021-01-17 20:29:19: <built-in method strip of str object at 0x00000282FE1A6E30> ('127.0.0.1', 59517)
+2021-01-17 20:29:19: ODA mehmet
+2021-01-17 20:29:23: <built-in method strip of str object at 0x00000282FE1AA330> ('127.0.0.1', 59517)
+2021-01-17 20:29:23: ODA mehmet
+2021-01-17 20:29:24: <built-in method strip of str object at 0x00000282FE1A6D30> ('127.0.0.1', 59517)
+2021-01-17 20:29:24: BIE mehmet
+2021-01-17 20:29:26: <built-in method strip of str object at 0x00000282FE1A6970> ('127.0.0.1', 59517)
+2021-01-17 20:29:26: BIE mehmet
+2021-01-17 20:29:31: <built-in method strip of str object at 0x00000282FE1A6D30> ('127.0.0.1', 59517)
+2021-01-17 20:29:31: LSM meh:ah
+2021-01-19 14:34:33: Baglanti kuruldu : ('127.0.0.1', 57227)
+2021-01-19 14:34:33: StartingWriteThread-0
+Starting ReadThread-
+2021-01-19 14:34:38: <built-in method strip of str object at 0x000001E68674C9F0> ('127.0.0.1', 57227)
+2021-01-19 14:34:38: WRN ienesk
+2021-01-19 14:34:38: WEL ienesk
+2021-01-19 14:34:45: <built-in method strip of str object at 0x000001E686750030> ('127.0.0.1', 57227)
+2021-01-19 14:34:45: ODA ienesk
+2021-01-19 14:34:49: <built-in method strip of str object at 0x000001E68675E0B0> ('127.0.0.1', 57227)
+2021-01-19 14:34:49: ERR 
+2021-01-19 14:34:59: <built-in method strip of str object at 0x000001E68674C1B0> ('127.0.0.1', 57227)
+2021-01-19 14:34:59: NRM ienesk
+2021-01-19 14:36:19: <built-in method strip of str object at 0x000001E6861E4D30> ('127.0.0.1', 57227)
+2021-01-19 14:36:19: BIE ienesk
+2021-01-19 14:36:41: Baglanti kuruldu : ('127.0.0.1', 57323)
+2021-01-19 14:36:41: StartingWriteThread-1
+Starting ReadThread-
+2021-01-19 14:36:49: <built-in method strip of str object at 0x000001E686748CF0> ('127.0.0.1', 57323)
+2021-01-19 14:36:49: SUC ahmet
+2021-01-19 14:36:53: <built-in method strip of str object at 0x000001E68674C4B0> ('127.0.0.1', 57323)
+2021-01-19 14:36:53: WRN ahmet
+2021-01-19 14:36:53: WEL ahmet
+2021-01-19 14:36:57: <built-in method strip of str object at 0x000001E686748D30> ('127.0.0.1', 57323)
+2021-01-19 14:36:57: BIE ahmet
+2021-01-19 14:37:18: <built-in method strip of str object at 0x000001E686748430> ('127.0.0.1', 57227)
+2021-01-19 14:37:18: ERR 
+2021-01-19 14:37:31: <built-in method strip of str object at 0x000001E686743BF0> ('127.0.0.1', 57227)
+2021-01-19 14:37:31: LST enesinodasi
+2021-01-19 14:37:45: <built-in method strip of str object at 0x000001E6867486F0> ('127.0.0.1', 57227)
+2021-01-19 14:37:45: LST ienesk:mehmet:ahmet
+2021-01-19 14:38:30: <built-in method strip of str object at 0x000001E686748530> ('127.0.0.1', 57227)
+2021-01-19 14:38:30: LST ienesk:ahmet
+2021-01-19 14:38:56: <built-in method strip of str object at 0x000001E686743BF0> ('127.0.0.1', 57323)
+2021-01-19 14:38:56: RNE 
+2021-01-19 14:46:40: <built-in method strip of str object at 0x000001E68674C0B0> ('127.0.0.1', 57323)
+2021-01-19 14:46:40: LST enesinodasi
+2021-01-19 14:51:52: <built-in method strip of str object at 0x000001E68674C230> ('127.0.0.1', 57323)
+2021-01-19 14:51:52: LSM enesinodasi
+2021-01-19 14:59:22: Baglanti kuruldu : ('127.0.0.1', 54230)
+2021-01-19 14:59:22: StartingWriteThread-0
+Starting ReadThread-
+2021-01-19 14:59:26: <built-in method strip of str object at 0x0000022C71DAC1F0> ('127.0.0.1', 54230)
+2021-01-19 14:59:26: WRN ienesk
+2021-01-19 14:59:26: WEL ienesk
+2021-01-19 14:59:28: <built-in method strip of str object at 0x0000022C71DAC9F0> ('127.0.0.1', 54230)
+2021-01-19 14:59:28: ODA ienesk
+2021-01-19 14:59:31: <built-in method strip of str object at 0x0000022C71DBE070> ('127.0.0.1', 54230)
+2021-01-19 14:59:31: BIE ienesk
+2021-01-19 14:59:41: Baglanti kuruldu : ('127.0.0.1', 54242)
+2021-01-19 14:59:41: StartingWriteThread-1
+Starting ReadThread-
+2021-01-19 14:59:45: <built-in method strip of str object at 0x0000022C71DAC230> ('127.0.0.1', 54242)
+2021-01-19 14:59:45: WRN mehmet
+2021-01-19 14:59:45: WEL mehmet
+2021-01-19 14:59:48: <built-in method strip of str object at 0x0000022C71DA3CB0> ('127.0.0.1', 54242)
+2021-01-19 14:59:48: BIE mehmet
+2021-01-19 14:59:51: <built-in method strip of str object at 0x0000022C71DA3170> ('127.0.0.1', 54242)
+2021-01-19 14:59:51: LST ienesk:mehmet
+2021-01-19 14:59:56: <built-in method strip of str object at 0x0000022C71DA86F0> ('127.0.0.1', 54242)
+2021-01-19 14:59:56: ERR 
+2021-01-19 14:59:59: <built-in method strip of str object at 0x0000022C71DA8B70> ('127.0.0.1', 54242)
+2021-01-19 14:59:59: ERR 
+2021-01-19 15:00:00: <built-in method strip of str object at 0x0000022C71DA8170> ('127.0.0.1', 54242)
+2021-01-19 15:00:00: ERR 
+2021-01-19 15:00:01: <built-in method strip of str object at 0x0000022C71DAC230> ('127.0.0.1', 54242)
+2021-01-19 15:00:01: LST enes
+2021-01-19 15:00:51: <built-in method strip of str object at 0x0000022C71DA3BF0> ('127.0.0.1', 54242)
+2021-01-19 15:00:51: ERR 
+2021-01-19 15:00:56: <built-in method strip of str object at 0x0000022C71DA8CB0> ('127.0.0.1', 54242)
+2021-01-19 15:00:56: LST ienesk:mehmet
+2021-01-19 15:01:02: <built-in method strip of str object at 0x0000022C71DBE130> ('127.0.0.1', 54242)
+2021-01-19 15:01:02: RNE 
+2021-01-19 15:01:23: <built-in method strip of str object at 0x0000022C71DA3170> ('127.0.0.1', 54242)
+2021-01-19 15:01:23: ERR 
+2021-01-19 15:01:24: <built-in method strip of str object at 0x0000022C71DA8BB0> ('127.0.0.1', 54242)
+2021-01-19 15:01:24: LSM enes
+2021-01-19 15:01:48: <built-in method strip of str object at 0x0000022C71D55670> ('127.0.0.1', 54242)
+2021-01-19 15:01:48: ODA mehmet
+2021-01-19 15:01:51: <built-in method strip of str object at 0x0000022C71DA6940> ('127.0.0.1', 54242)
+2021-01-19 15:01:51: BIE mehmet
+2021-01-19 15:01:53: <built-in method strip of str object at 0x0000022C71DA3EB0> ('127.0.0.1', 54242)
+2021-01-19 15:01:53: LSM enes:mehmetinodasi
+2021-01-19 15:02:00: <built-in method strip of str object at 0x0000022C71DA6670> ('127.0.0.1', 54242)
+2021-01-19 15:02:00: RNF 
+2021-01-19 15:03:48: Baglanti kuruldu : ('127.0.0.1', 54531)
+2021-01-19 15:03:48: StartingWriteThread-0
+Starting ReadThread-
+2021-01-19 15:03:53: <built-in method strip of str object at 0x000002243499C230> ('127.0.0.1', 54531)
+2021-01-19 15:03:53: WRN mehmet
+2021-01-19 15:03:53: WEL mehmet
+2021-01-19 15:03:58: <built-in method strip of str object at 0x00000224349AD270> ('127.0.0.1', 54531)
+2021-01-19 15:03:58: ODA mehmet
+2021-01-19 15:04:01: <built-in method strip of str object at 0x00000224349AD1F0> ('127.0.0.1', 54531)
+2021-01-19 15:04:01: BIE mehmet
+2021-01-19 15:04:06: <built-in method strip of str object at 0x00000224349AD3B0> ('127.0.0.1', 54531)
+2021-01-19 15:04:06: RQU mehmetinoda
+2021-01-19 15:04:15: <built-in method strip of str object at 0x00000224349AD1F0> ('127.0.0.1', 54531)
+2021-01-19 15:04:15: LSM 
+2021-01-19 15:04:38: Baglanti kuruldu : ('127.0.0.1', 54562)
+2021-01-19 15:04:38: StartingWriteThread-1
+Starting ReadThread-
+2021-01-19 15:04:44: <built-in method strip of str object at 0x00000224349989B0> ('127.0.0.1', 54562)
+2021-01-19 15:04:44: WRN ienesk
+2021-01-19 15:04:44: WEL ienesk
+2021-01-19 15:04:48: <built-in method strip of str object at 0x0000022434998C30> ('127.0.0.1', 54562)
+2021-01-19 15:04:48: BIE ienesk
+2021-01-19 15:04:57: <built-in method strip of str object at 0x0000022434993CF0> ('127.0.0.1', 54531)
+2021-01-19 15:04:57: ERR 
+2021-01-19 15:05:26: <built-in method strip of str object at 0x00000224349AF2B0> ('127.0.0.1', 54531)
+2021-01-19 15:05:26: UNF 
+2021-01-19 15:05:26: UNF 
+2021-01-19 15:05:30: <built-in method strip of str object at 0x0000022434998E70> ('127.0.0.1', 54531)
+2021-01-19 15:05:30: LSM 
+2021-01-19 15:05:36: <built-in method strip of str object at 0x0000022434998A70> ('127.0.0.1', 54531)
+2021-01-19 15:05:36: LST ienesk
+2021-01-19 15:11:19: Baglanti kuruldu : ('127.0.0.1', 54923)
+2021-01-19 15:11:19: StartingWriteThread-0
+Starting ReadThread-
+2021-01-19 15:11:24: <built-in method strip of str object at 0x0000027109F6CCB0> ('127.0.0.1', 54923)
+2021-01-19 15:11:24: WRN ienesk
+2021-01-19 15:11:24: WEL ienesk
+2021-01-19 15:11:28: <built-in method strip of str object at 0x0000027109F6CCF0> ('127.0.0.1', 54923)
+2021-01-19 15:11:28: ODA ienesk
+2021-01-19 15:11:29: <built-in method strip of str object at 0x0000027109F6CA70> ('127.0.0.1', 54923)
+2021-01-19 15:11:29: NRM ienesk
+2021-01-19 15:11:34: <built-in method strip of str object at 0x0000027109F6C0F0> ('127.0.0.1', 54923)
+2021-01-19 15:11:34: BIE ienesk
+2021-01-19 15:11:44: Baglanti kuruldu : ('127.0.0.1', 54935)
+2021-01-19 15:11:44: StartingWriteThread-1
+Starting ReadThread-
+2021-01-19 15:11:50: <built-in method strip of str object at 0x0000027109F6C9F0> ('127.0.0.1', 54935)
+2021-01-19 15:11:50: WRN mehmet
+2021-01-19 15:11:50: WEL mehmet
+2021-01-19 15:11:52: <built-in method strip of str object at 0x0000027109F630B0> ('127.0.0.1', 54935)
+2021-01-19 15:11:52: BIE mehmet
+2021-01-19 15:12:01: <built-in method strip of str object at 0x0000027109F68F70> ('127.0.0.1', 54923)
+2021-01-19 15:12:01: UNF 
+2021-01-19 15:12:01: UNF 
+2021-01-19 15:13:43: <built-in method strip of str object at 0x0000027109F63B30> ('127.0.0.1', 54923)
+2021-01-19 15:13:43: LST ienesk:mehmet
+2021-01-19 15:15:32: <built-in method strip of str object at 0x0000027109F68C30> ('127.0.0.1', 54935)
+2021-01-19 15:15:32: LSM oda
+2021-01-19 15:22:58: Baglanti kuruldu : ('127.0.0.1', 55883)
+2021-01-19 15:22:58: StartingWriteThread-0
+Starting ReadThread-
+2021-01-19 15:23:24: Baglanti kuruldu : ('127.0.0.1', 55907)
+2021-01-19 15:23:24: StartingWriteThread-1
+Starting ReadThread-
+2021-01-19 15:23:29: <built-in method strip of str object at 0x000001DEAC23BB70> ('127.0.0.1', 55907)
+2021-01-19 15:23:29: WRN mehmet
+2021-01-19 15:23:29: WEL mehmet
+2021-01-19 15:23:35: <built-in method strip of str object at 0x000001DEAC237F70> ('127.0.0.1', 55883)
+2021-01-19 15:23:35: WRN ienesk
+2021-01-19 15:23:35: WEL ienesk
+2021-01-19 15:23:45: <built-in method strip of str object at 0x000001DEAC23B370> ('127.0.0.1', 55883)
+2021-01-19 15:23:45: ODA ienesk
+2021-01-19 15:23:46: <built-in method strip of str object at 0x000001DEAC24D2F0> ('127.0.0.1', 55883)
+2021-01-19 15:23:46: NRM ienesk
+2021-01-19 15:23:51: <built-in method strip of str object at 0x000001DEAC2373B0> ('127.0.0.1', 55883)
+2021-01-19 15:23:51: BIE ienesk
+2021-01-19 15:23:54: <built-in method strip of str object at 0x000001DEAC24D6B0> ('127.0.0.1', 55907)
+2021-01-19 15:23:54: BIE mehmet
+2021-01-19 15:24:02: <built-in method strip of str object at 0x000001DEAC237A70> ('127.0.0.1', 55883)
+2021-01-19 15:24:02: ERR 
+2021-01-19 15:24:10: <built-in method strip of str object at 0x000001DEAC24D2F0> ('127.0.0.1', 55883)
+2021-01-19 15:24:10: OKK 
+2021-01-19 15:24:15: <built-in method strip of str object at 0x000001DEAC2373B0> ('127.0.0.1', 55883)
+2021-01-19 15:24:15: LST ienesk
+2021-01-19 15:24:18: <built-in method strip of str object at 0x000001DEAC24D030> ('127.0.0.1', 55907)
+2021-01-19 15:24:18: LSM 
+2021-01-19 15:24:37: <built-in method strip of str object at 0x000001DEAC233270> ('127.0.0.1', 55907)
+2021-01-19 15:24:37: BIE mehmet
+2021-01-19 15:24:41: <built-in method strip of str object at 0x000001DEAC23B3B0> ('127.0.0.1', 55907)
+2021-01-19 15:24:41: LST ienesk:mehmet
+2021-01-19 15:24:49: <built-in method strip of str object at 0x000001DEAC2375B0> ('127.0.0.1', 55883)
+2021-01-19 15:24:49: LST ienesk:mehmet
+2021-01-19 15:24:53: <built-in method strip of str object at 0x000001DEAC233270> ('127.0.0.1', 55883)
+2021-01-19 15:24:53: ERR 
+2021-01-19 15:24:59: <built-in method strip of str object at 0x000001DEAC2373B0> ('127.0.0.1', 55883)
+2021-01-19 15:24:59: OKK ienesk:mehmet
+2021-01-19 15:25:05: <built-in method strip of str object at 0x000001DEAC233EB0> ('127.0.0.1', 55883)
+2021-01-19 15:25:05: LST ienesk
+2021-01-19 15:26:45: <built-in method strip of str object at 0x000001DEAC233BF0> ('127.0.0.1', 55907)
+2021-01-19 15:26:45: BIE mehmet
+2021-01-19 15:26:49: <built-in method strip of str object at 0x000001DEAC24D6B0> ('127.0.0.1', 55907)
+2021-01-19 15:26:49: NAD ienesk:mehmet
+2021-01-19 15:26:49: NAD ienesk:mehmet
+2021-01-19 15:26:59: <built-in method strip of str object at 0x000001DEAC23B970> ('127.0.0.1', 55907)
+2021-01-19 15:26:59: LST ienesk:mehmet
+2021-01-19 15:29:59: <built-in method strip of str object at 0x000001DEAC23B8F0> ('127.0.0.1', 55883)
+2021-01-19 15:29:59: LSM oda:oda
+2021-01-19 15:30:12: <built-in method strip of str object at 0x000001DEAC23B370> ('127.0.0.1', 55907)
+2021-01-19 15:30:12: NAD ienesk:mehmet
+2021-01-19 15:30:12: NAD ienesk:mehmet
+2021-01-19 15:30:15: <built-in method strip of str object at 0x000001DEAC233230> ('127.0.0.1', 55883)
+2021-01-19 15:30:15: LSM oda
+2021-01-19 15:36:41: Baglanti kuruldu : ('127.0.0.1', 56784)
+2021-01-19 15:36:41: StartingWriteThread-0
+Starting ReadThread-
+2021-01-19 15:36:47: <built-in method strip of str object at 0x000001B8C9FBB470> ('127.0.0.1', 56784)
+2021-01-19 15:36:47: WRN mehmet
+2021-01-19 15:36:47: WEL mehmet
+2021-01-19 15:37:01: Baglanti kuruldu : ('127.0.0.1', 56797)
+2021-01-19 15:37:01: StartingWriteThread-1
+Starting ReadThread-
+2021-01-19 15:37:06: <built-in method strip of str object at 0x000001B8C9FB8F70> ('127.0.0.1', 56797)
+2021-01-19 15:37:06: WRN ienesk
+2021-01-19 15:37:06: WEL ienesk
+2021-01-19 15:37:08: <built-in method strip of str object at 0x000001B8C9FCD530> ('127.0.0.1', 56797)
+2021-01-19 15:37:08: ODA ienesk
+2021-01-19 15:37:11: <built-in method strip of str object at 0x000001B8C9FB80F0> ('127.0.0.1', 56797)
+2021-01-19 15:37:11: BIE ienesk
+2021-01-19 15:37:15: <built-in method strip of str object at 0x000001B8C9FB8F70> ('127.0.0.1', 56784)
+2021-01-19 15:37:15: BIE mehmet
+2021-01-19 15:37:32: <built-in method strip of str object at 0x000001B8C9FCD9B0> ('127.0.0.1', 56784)
+2021-01-19 15:37:32: NAD 
+2021-01-19 15:37:32: NAD 
+2021-01-19 15:38:48: <built-in method strip of str object at 0x000001B8C9FB8570> ('127.0.0.1', 56797)
+2021-01-19 15:38:48: UNF 
+2021-01-19 15:38:48: UNF 
+2021-01-19 15:38:53: <built-in method strip of str object at 0x000001B8C9FCD470> ('127.0.0.1', 56797)
+2021-01-19 15:38:53: LST ienesk:mehmet
+2021-01-19 15:39:41: <built-in method strip of str object at 0x000001B8C9FB3CF0> ('127.0.0.1', 56797)
+2021-01-19 15:39:41: OKK ienesk
+2021-01-19 15:39:48: <built-in method strip of str object at 0x000001B8C9FCD3F0> ('127.0.0.1', 56797)
+2021-01-19 15:39:48: ERR 
+2021-01-19 15:39:51: <built-in method strip of str object at 0x000001B8C9FB8F70> ('127.0.0.1', 56797)
+2021-01-19 15:39:51: LST mehmet
+2021-01-19 15:40:27: <built-in method strip of str object at 0x000001B8C9FB31F0> ('127.0.0.1', 56784)
+2021-01-19 15:40:27: LSM 
+2021-01-19 15:49:20: Baglanti kuruldu : ('127.0.0.1', 57501)
+2021-01-19 15:49:20: StartingWriteThread-0
+Starting ReadThread-
+2021-01-19 15:49:26: <built-in method strip of str object at 0x000002231FBAB230> ('127.0.0.1', 57501)
+2021-01-19 15:49:26: WRN ienesk
+2021-01-19 15:49:26: WEL ienesk
+2021-01-19 15:49:31: <built-in method strip of str object at 0x000002231FBBE130> ('127.0.0.1', 57501)
+2021-01-19 15:49:31: ODA ienesk
+2021-01-19 15:49:32: <built-in method strip of str object at 0x000002231FBBE1F0> ('127.0.0.1', 57501)
+2021-01-19 15:49:32: BIE ienesk
+2021-01-19 15:49:43: Baglanti kuruldu : ('127.0.0.1', 57521)
+2021-01-19 15:49:43: StartingWriteThread-1
+Starting ReadThread-
+2021-01-19 15:49:48: <built-in method strip of str object at 0x000002231FBA7BF0> ('127.0.0.1', 57521)
+2021-01-19 15:49:48: WRN mehmet
+2021-01-19 15:49:48: WEL mehmet
+2021-01-19 15:49:50: <built-in method strip of str object at 0x000002231FBA3CB0> ('127.0.0.1', 57521)
+2021-01-19 15:49:50: BIE mehmet
+2021-01-19 15:50:10: <built-in method strip of str object at 0x000002231FBA7A70> ('127.0.0.1', 57521)
+2021-01-19 15:50:10: NAD 
+2021-01-19 15:50:10: NAD 
+2021-01-19 15:53:59: Baglanti kuruldu : ('127.0.0.1', 58086)
+2021-01-19 15:53:59: StartingWriteThread-0
+Starting ReadThread-
+2021-01-19 15:54:09: Baglanti kuruldu : ('127.0.0.1', 58092)
+2021-01-19 15:54:09: StartingWriteThread-1
+Starting ReadThread-
+2021-01-19 15:54:14: <built-in method strip of str object at 0x00000230747CB8F0> ('127.0.0.1', 58092)
+2021-01-19 15:54:14: WRN ienesk
+2021-01-19 15:54:14: WEL ienesk
+2021-01-19 15:54:21: <built-in method strip of str object at 0x00000230747DE4B0> ('127.0.0.1', 58086)
+2021-01-19 15:54:21: WRN mehmet
+2021-01-19 15:54:21: WEL mehmet
+2021-01-19 15:54:26: <built-in method strip of str object at 0x00000230747C82F0> ('127.0.0.1', 58086)
+2021-01-19 15:54:26: ODA mehmet
+2021-01-19 15:54:28: <built-in method strip of str object at 0x00000230747C8E30> ('127.0.0.1', 58086)
+2021-01-19 15:54:28: BIE mehmet
+2021-01-19 15:54:31: <built-in method strip of str object at 0x00000230747C3BF0> ('127.0.0.1', 58092)
+2021-01-19 15:54:31: BIE ienesk
+2021-01-19 15:54:37: <built-in method strip of str object at 0x00000230747C3CF0> ('127.0.0.1', 58092)
+2021-01-19 15:54:37: NAD 
+2021-01-19 15:54:37: NAD 
+2021-01-19 15:55:27: <built-in method strip of str object at 0x00000230747DE170> ('127.0.0.1', 58086)
+2021-01-19 15:55:27: UNF 
+2021-01-19 15:55:27: UNF 
+2021-01-19 15:55:45: <built-in method strip of str object at 0x00000230747C8CF0> ('127.0.0.1', 58092)
+2021-01-19 15:55:45: LST mehmet:ienesk
+2021-01-19 15:55:54: <built-in method strip of str object at 0x00000230747C82F0> ('127.0.0.1', 58086)
+2021-01-19 15:55:54: UNF 
+2021-01-19 15:55:54: UNF 
+2021-01-19 15:57:22: <built-in method strip of str object at 0x00000230747C8D30> ('127.0.0.1', 58092)
+2021-01-19 15:57:22: RNF 
+2021-01-19 15:57:29: <built-in method strip of str object at 0x00000230747C8530> ('127.0.0.1', 58092)
+2021-01-19 15:57:29: LST ienesk:mehmet
+2021-01-19 15:57:33: <built-in method strip of str object at 0x00000230747C3F70> ('127.0.0.1', 58092)
+2021-01-19 15:57:33: LST oda
+2021-01-19 15:57:48: <built-in method strip of str object at 0x00000230747C3B30> ('127.0.0.1', 58086)
+2021-01-19 15:57:48: LST mehmet:ienesk
+2021-01-19 15:57:58: <built-in method strip of str object at 0x00000230747C3CF0> ('127.0.0.1', 58092)
+2021-01-19 15:57:58: BIE ienesk
+2021-01-19 15:59:12: <built-in method strip of str object at 0x00000230747DE170> ('127.0.0.1', 58086)
+2021-01-19 15:59:12: LST oda
+2021-01-19 15:59:29: <built-in method strip of str object at 0x00000230747C8EB0> ('127.0.0.1', 58086)
+2021-01-19 15:59:29: LSM oda:oda:oda
+2021-01-19 15:59:44: <built-in method strip of str object at 0x00000230747C8D30> ('127.0.0.1', 58092)
+2021-01-19 15:59:44: NAD oda
+2021-01-19 15:59:44: NAD oda
+2021-01-19 15:59:47: <built-in method strip of str object at 0x00000230747C3E30> ('127.0.0.1', 58086)
+2021-01-19 15:59:47: LSM oda:oda:oda
+2021-01-19 16:00:48: Baglanti kuruldu : ('127.0.0.1', 58554)
+2021-01-19 16:00:48: StartingWriteThread-0
+Starting ReadThread-
+2021-01-19 16:00:55: <built-in method strip of str object at 0x00000183324AB2B0> ('127.0.0.1', 58554)
+2021-01-19 16:00:55: WRN mehmet
+2021-01-19 16:00:55: WEL mehmet
+2021-01-19 16:01:01: <built-in method strip of str object at 0x00000183324B0170> ('127.0.0.1', 58554)
+2021-01-19 16:01:01: NRM mehmet
+2021-01-19 16:01:43: <built-in method strip of str object at 0x00000183324B1490> ('127.0.0.1', 58554)
+2021-01-19 16:01:43: ODA mehmet
+2021-01-19 16:01:53: Baglanti kuruldu : ('127.0.0.1', 58632)
+2021-01-19 16:01:53: StartingWriteThread-1
+Starting ReadThread-
+2021-01-19 16:02:28: <built-in method strip of str object at 0x00000183324AB2F0> ('127.0.0.1', 58632)
+2021-01-19 16:02:28: WRN ienesk
+2021-01-19 16:02:28: WEL ienesk
+2021-01-19 16:02:33: <built-in method strip of str object at 0x00000183324A7670> ('127.0.0.1', 58632)
+2021-01-19 16:02:33: BIE ienesk
+2021-01-19 16:02:49: <built-in method strip of str object at 0x00000183324B11C0> ('127.0.0.1', 58554)
+2021-01-19 16:02:49: OKK ienesk
+2021-01-19 16:03:01: <built-in method strip of str object at 0x00000183324B1490> ('127.0.0.1', 58554)
+2021-01-19 16:03:01: LST 
+2021-01-19 16:03:10: <built-in method strip of str object at 0x00000183324A7440> ('127.0.0.1', 58632)
+2021-01-19 16:03:10: BIE ienesk
+2021-01-19 16:03:16: <built-in method strip of str object at 0x00000183324B11C0> ('127.0.0.1', 58554)
+2021-01-19 16:03:16: LST ienesk
+2021-01-19 16:03:36: <built-in method strip of str object at 0x00000183324B1490> ('127.0.0.1', 58554)
+2021-01-19 16:03:36: BIE mehmet
+2021-01-19 16:03:55: <built-in method strip of str object at 0x00000183324A7620> ('127.0.0.1', 58632)
+2021-01-19 16:03:55: NAD 
+2021-01-19 16:03:55: NAD 
+2021-01-19 16:04:42: <built-in method strip of str object at 0x00000183324B11C0> ('127.0.0.1', 58554)
+2021-01-19 16:04:42: LST ienesk:mehmet
+2021-01-19 16:06:06: Baglanti kuruldu : ('127.0.0.1', 58992)
+2021-01-19 16:06:06: StartingWriteThread-0
+Starting ReadThread-
+2021-01-19 16:06:12: <built-in method strip of str object at 0x0000017CC47C6D70> ('127.0.0.1', 58992)
+2021-01-19 16:06:12: NOP 
+2021-01-19 16:06:15: <built-in method strip of str object at 0x0000017CC475D5F0> ('127.0.0.1', 58992)
+2021-01-19 16:06:15: WRN ienesk
+2021-01-19 16:06:15: WEL ienesk
+2021-01-19 16:06:24: Baglanti kuruldu : ('127.0.0.1', 59009)
+2021-01-19 16:06:24: StartingWriteThread-1
+Starting ReadThread-
+2021-01-19 16:06:30: <built-in method strip of str object at 0x0000017CC474B0F0> ('127.0.0.1', 59009)
+2021-01-19 16:06:30: WRN mehmet
+2021-01-19 16:06:30: WEL mehmet
+2021-01-19 16:06:33: <built-in method strip of str object at 0x0000017CC47454B0> ('127.0.0.1', 58992)
+2021-01-19 16:06:33: ODA ienesk
+2021-01-19 16:06:37: <built-in method strip of str object at 0x0000017CC47455F0> ('127.0.0.1', 58992)
+2021-01-19 16:06:37: BIE ienesk
+2021-01-19 16:06:40: <built-in method strip of str object at 0x0000017CC4745270> ('127.0.0.1', 59009)
+2021-01-19 16:06:40: BIE mehmet
+2021-01-19 16:06:56: <built-in method strip of str object at 0x0000017CC47452F0> ('127.0.0.1', 59009)
+2021-01-19 16:06:56: NAD 
+2021-01-19 16:07:10: <built-in method strip of str object at 0x0000017CC4745330> ('127.0.0.1', 58992)
+2021-01-19 16:07:10: LST ienesk:mehmet
+2021-01-19 16:26:07: <built-in method strip of str object at 0x0000017CC4739830> ('127.0.0.1', 59009)
+2021-01-19 16:26:07: RNF 
+2021-01-19 16:26:19: <built-in method strip of str object at 0x0000017CC47452F0> ('127.0.0.1', 58992)
+2021-01-19 16:26:19: LST ienesk:mehmet
+2021-01-19 16:26:32: <built-in method strip of str object at 0x0000017CC4739AF0> ('127.0.0.1', 59009)
+2021-01-19 16:26:32: LST ienesk:mehmet
+2021-01-19 16:26:58: <built-in method strip of str object at 0x0000017CC47455B0> ('127.0.0.1', 59009)
+2021-01-19 16:26:58: ERR 
+2021-01-19 16:26:58: <built-in method strip of str object at 0x0000017CC47450B0> ('127.0.0.1', 59009)
+2021-01-19 16:26:58: LSM 
+2021-01-19 16:27:12: <built-in method strip of str object at 0x0000017CC4739630> ('127.0.0.1', 59009)
+2021-01-19 16:27:12: BIE mehmet
+2021-01-19 16:27:14: <built-in method strip of str object at 0x0000017CC4739AF0> ('127.0.0.1', 59009)
+2021-01-19 16:27:14: LSM oda:oda
+2021-01-19 16:27:28: <built-in method strip of str object at 0x0000017CC4745170> ('127.0.0.1', 59009)
+2021-01-19 16:27:28: RNF 
+2021-01-19 16:31:00: Baglanti kuruldu : ('127.0.0.1', 60347)
+2021-01-19 16:31:00: StartingWriteThread-0
+Starting ReadThread-
+2021-01-19 16:31:12: <built-in method strip of str object at 0x000001C973AAB330> ('127.0.0.1', 60347)
+2021-01-19 16:31:12: WRN mehmet
+2021-01-19 16:31:12: WEL mehmet
+2021-01-19 16:31:17: <built-in method strip of str object at 0x000001C973ABD7B0> ('127.0.0.1', 60347)
+2021-01-19 16:31:17: ODA mehmet
+2021-01-19 16:31:18: <built-in method strip of str object at 0x000001C973ABD0B0> ('127.0.0.1', 60347)
+2021-01-19 16:31:18: BIE mehmet
+2021-01-19 16:31:20: <built-in method strip of str object at 0x000001C973ABD0F0> ('127.0.0.1', 60347)
+2021-01-19 16:31:20: RNF 
+2021-01-19 16:32:03: Baglanti kuruldu : ('127.0.0.1', 60407)
+2021-01-19 16:32:03: StartingWriteThread-0
+Starting ReadThread-
+2021-01-19 16:32:09: <built-in method strip of str object at 0x000002084108B130> ('127.0.0.1', 60407)
+2021-01-19 16:32:09: WRN mehmet
+2021-01-19 16:32:09: WEL mehmet
+2021-01-19 16:32:22: <built-in method strip of str object at 0x00000208411A3A30> ('127.0.0.1', 60407)
+2021-01-19 16:32:22: ODA mehmet
+2021-01-19 16:32:23: <built-in method strip of str object at 0x000002084108B1F0> ('127.0.0.1', 60407)
+2021-01-19 16:32:23: BIE mehmet
+2021-01-19 16:32:25: <built-in method strip of str object at 0x000002084109D630> ('127.0.0.1', 60407)
+2021-01-19 16:32:25: RQU oda
+2021-01-19 16:32:31: <built-in method strip of str object at 0x000002084109D570> ('127.0.0.1', 60407)
+2021-01-19 16:32:31: LST 
+2021-01-19 17:01:38: Baglanti kuruldu : ('127.0.0.1', 55952)
+2021-01-19 17:01:38: StartingWriteThread-0
+Starting ReadThread-
+2021-01-19 17:01:45: Baglanti kuruldu : ('127.0.0.1', 55959)
+2021-01-19 17:01:45: StartingWriteThread-1
+Starting ReadThread-
+2021-01-19 17:01:53: <built-in method strip of str object at 0x0000029CB4BBFB30> ('127.0.0.1', 55952)
+2021-01-19 17:01:53: WRN ienesk
+2021-01-19 17:01:53: WEL ienesk
+2021-01-19 17:01:58: <built-in method strip of str object at 0x0000029CB4BB7630> ('127.0.0.1', 55952)
+2021-01-19 17:01:58: ODA ienesk
+2021-01-19 17:01:59: <built-in method strip of str object at 0x0000029CB4BBD930> ('127.0.0.1', 55952)
+2021-01-19 17:01:59: BIE ienesk
+2021-01-19 17:02:03: <built-in method strip of str object at 0x0000029CB4BBDE70> ('127.0.0.1', 55959)
+2021-01-19 17:02:03: WRN mehmet
+2021-01-19 17:02:03: WEL mehmet
+2021-01-19 17:02:07: <built-in method strip of str object at 0x0000029CB4BB7430> ('127.0.0.1', 55959)
+2021-01-19 17:02:07: BIE mehmet
+2021-01-19 17:02:11: <built-in method strip of str object at 0x0000029CB4BB79F0> ('127.0.0.1', 55959)
+2021-01-19 17:02:11: LST Odadaki kullanicilar:ienesk(yonetici):ienesk(normal):mehmet(normal):
+2021-01-19 17:21:09: Baglanti kuruldu : ('127.0.0.1', 57310)
+2021-01-19 17:21:09: StartingWriteThread-0
+Starting ReadThread-
+2021-01-19 17:21:13: <built-in method strip of str object at 0x000001A01506F0B0> ('127.0.0.1', 57310)
+2021-01-19 17:21:13: WRN mehmet
+2021-01-19 17:21:13: WEL mehmet
+2021-01-19 17:21:22: Baglanti kuruldu : ('127.0.0.1', 57321)
+2021-01-19 17:21:22: StartingWriteThread-1
+Starting ReadThread-
+2021-01-19 17:21:27: <built-in method strip of str object at 0x000001A01506C0B0> ('127.0.0.1', 57321)
+2021-01-19 17:21:27: WRN ienesk
+2021-01-19 17:21:27: WEL ienesk
+2021-01-19 17:21:31: <built-in method strip of str object at 0x000001A01506C030> ('127.0.0.1', 57321)
+2021-01-19 17:21:31: ODA ienesk
+2021-01-19 17:21:32: <built-in method strip of str object at 0x000001A015067570> ('127.0.0.1', 57321)
+2021-01-19 17:21:32: BIE ienesk
+2021-01-19 17:21:36: <built-in method strip of str object at 0x000001A01506FE70> ('127.0.0.1', 57310)
+2021-01-19 17:21:36: BIE mehmet
+2021-01-19 17:21:39: <built-in method strip of str object at 0x000001A0150671B0> ('127.0.0.1', 57310)
+2021-01-19 17:21:39: LST Odadaki kullanicilar:ienesk(yonetici):mehmet(normal):
+2021-01-19 17:24:33: <built-in method strip of str object at 0x000001A0150674B0> ('127.0.0.1', 57310)
+2021-01-19 17:24:33: LST Odadaki kullanicilar:ienesk(yonetici):mehmet(normal):
+2021-01-19 17:24:46: Baglanti kuruldu : ('127.0.0.1', 57516)
+2021-01-19 17:24:46: StartingWriteThread-2
+Starting ReadThread-
+2021-01-19 17:24:51: <built-in method strip of str object at 0x000001A01507D070> ('127.0.0.1', 57516)
+2021-01-19 17:24:51: WRN ienesk
+2021-01-19 17:24:51: WEL ienesk
+2021-01-19 17:24:51: <built-in method strip of str object at 0x000001A014544670> ('127.0.0.1', 57321)
+2021-01-19 17:24:51: ERR 
+2021-01-19 17:24:51: <built-in method strip of str object at 0x000001A014544670> ('127.0.0.1', 57321)
+2021-01-19 17:24:51: ERR 
+2021-01-19 17:24:51: <built-in method strip of str object at 0x000001A014544670> ('127.0.0.1', 57321)
+2021-01-19 17:24:51: ERR 
+2021-01-19 17:24:51: <built-in method strip of str object at 0x000001A014544670> ('127.0.0.1', 57321)
+2021-01-19 17:24:51: ERR 
+2021-01-19 17:24:51: <built-in method strip of str object at 0x000001A014544670> ('127.0.0.1', 57321)
+2021-01-19 17:24:51: ERR 
+2021-01-19 17:24:51: <built-in method strip of str object at 0x000001A014544670> ('127.0.0.1', 57321)
+2021-01-19 17:24:51: ERR 
+2021-01-19 17:24:51: <built-in method strip of str object at 0x000001A014544670> ('127.0.0.1', 57321)
+2021-01-19 17:24:51: ERR 
+2021-01-19 17:24:51: <built-in method strip of str object at 0x000001A014544670> ('127.0.0.1', 57321)
+2021-01-19 17:24:51: ERR 
+2021-01-19 17:24:51: <built-in method strip of str object at 0x000001A014544670> ('127.0.0.1', 57321)
+2021-01-19 17:24:51: ERR 
+2021-01-19 17:24:51: <built-in method strip of str object at 0x000001A014544670> ('127.0.0.1', 57321)
+2021-01-19 17:24:51: ERR 
+2021-01-19 17:24:51: <built-in method strip of str object at 0x000001A014544670> ('127.0.0.1', 57321)
+2021-01-19 17:24:51: ERR 
+2021-01-19 17:24:51: <built-in method strip of str object at 0x000001A014544670> ('127.0.0.1', 57321)
+2021-01-19 17:24:51: ERR 
+2021-01-19 17:24:51: ExitingWriteThread-1
+2021-01-19 17:24:51: <built-in method strip of str object at 0x000001A014544670> ('127.0.0.1', 57321)
+2021-01-19 17:24:51: ERR 
+2021-01-19 17:24:54: <built-in method strip of str object at 0x000001A0150677B0> ('127.0.0.1', 57516)
+2021-01-19 17:24:54: LST Odadaki kullanicilar:ienesk(yonetici):mehmet(normal):
+2021-01-19 17:25:02: <built-in method strip of str object at 0x000001A01506C230> ('127.0.0.1', 57516)
+2021-01-19 17:25:02: UNF Odadaki kullanicilar:ienesk(yonetici):mehmet(normal):
+2021-01-19 17:25:50: <built-in method strip of str object at 0x000001A01506C0B0> ('127.0.0.1', 57516)
+2021-01-19 17:25:50: UNF Odadaki kullanicilar:ienesk(yonetici):mehmet(normal):
+2021-01-19 17:26:00: <built-in method strip of str object at 0x000001A01506F5F0> ('127.0.0.1', 57310)
+2021-01-19 17:26:00: LSM 
+2021-01-19 17:26:11: <built-in method strip of str object at 0x000001A01507D7B0> ('127.0.0.1', 57516)
+2021-01-19 17:26:11: LST Odadaki kullanicilar:ienesk(yonetici):mehmet(normal):
+2021-01-19 17:28:22: <built-in method strip of str object at 0x000001A0150676B0> ('127.0.0.1', 57516)
+2021-01-19 17:28:22: LSM oda:oda
+2021-01-19 17:32:34: Baglanti kuruldu : ('127.0.0.1', 57929)
+2021-01-19 17:32:34: StartingWriteThread-0
+Starting ReadThread-
+2021-01-19 17:32:39: Baglanti kuruldu : ('127.0.0.1', 57932)
+2021-01-19 17:32:39: StartingWriteThread-1
+Starting ReadThread-
+2021-01-19 17:32:46: <built-in method strip of str object at 0x000001BA2B68CBF0> ('127.0.0.1', 57929)
+2021-01-19 17:32:46: WRN mehmet
+2021-01-19 17:32:46: WEL mehmet
+2021-01-19 17:32:53: <built-in method strip of str object at 0x000001BA2B68C070> ('127.0.0.1', 57932)
+2021-01-19 17:32:53: WRN ienesk
+2021-01-19 17:32:53: WEL ienesk
+2021-01-19 17:33:01: <built-in method strip of str object at 0x000001BA2B68C2F0> ('127.0.0.1', 57932)
+2021-01-19 17:33:01: ODA ienesk
+2021-01-19 17:33:02: <built-in method strip of str object at 0x000001BA2B6878F0> ('127.0.0.1', 57932)
+2021-01-19 17:33:02: BIE ienesk
+2021-01-19 17:33:07: <built-in method strip of str object at 0x000001BA2B687330> ('127.0.0.1', 57929)
+2021-01-19 17:33:07: BIE mehmet
+2021-01-19 17:33:21: <built-in method strip of str object at 0x000001BA2B68C7F0> ('127.0.0.1', 57932)
+2021-01-19 17:33:21: UNF mehmet
+2021-01-19 17:33:45: <built-in method strip of str object at 0x000001BA2B687B30> ('127.0.0.1', 57929)
+2021-01-19 17:33:45: LSM 
+2021-01-19 17:33:56: <built-in method strip of str object at 0x000001BA2B687CF0> ('127.0.0.1', 57929)
+2021-01-19 17:33:56: LST Odadaki kullanicilar:ienesk(yonetici):mehmet(normal):
+2021-01-19 17:35:27: Baglanti kuruldu : ('127.0.0.1', 58111)
+2021-01-19 17:35:27: StartingWriteThread-0
+Starting ReadThread-
+2021-01-19 17:35:30: Baglanti kuruldu : ('127.0.0.1', 58113)
+2021-01-19 17:35:30: StartingWriteThread-1
+Starting ReadThread-
+2021-01-19 17:35:33: <built-in method strip of str object at 0x000001E5A4E4CC30> ('127.0.0.1', 58113)
+2021-01-19 17:35:33: WRN mehmet
+2021-01-19 17:35:33: WEL mehmet
+2021-01-19 17:35:38: <built-in method strip of str object at 0x000001E5A4E4C0B0> ('127.0.0.1', 58111)
+2021-01-19 17:35:38: WRN ienesk
+2021-01-19 17:35:38: WEL ienesk
+2021-01-19 17:35:40: <built-in method strip of str object at 0x000001E5A4E47D30> ('127.0.0.1', 58111)
+2021-01-19 17:35:40: ODA ienesk
+2021-01-19 17:35:42: <built-in method strip of str object at 0x000001E5A4E2EF30> ('127.0.0.1', 58111)
+2021-01-19 17:35:42: BIE ienesk
+2021-01-19 17:35:47: <built-in method strip of str object at 0x000001E5A4E475F0> ('127.0.0.1', 58113)
+2021-01-19 17:35:47: BIE mehmet
+2021-01-19 17:35:56: <built-in method strip of str object at 0x000001E5A4E47CF0> ('127.0.0.1', 58111)
+2021-01-19 17:35:56: OKB mehmet
+2021-01-19 17:36:12: <built-in method strip of str object at 0x000001E5A4E47530> ('127.0.0.1', 58111)
+2021-01-19 17:36:12: LST Odadaki kullanicilar:ienesk(yonetici):
+2021-01-19 17:39:07: Baglanti kuruldu : ('127.0.0.1', 58491)
+2021-01-19 17:39:07: StartingWriteThread-0
+Starting ReadThread-
+2021-01-19 17:39:13: Baglanti kuruldu : ('127.0.0.1', 58495)
+2021-01-19 17:39:13: StartingWriteThread-1
+Starting ReadThread-
+2021-01-19 17:39:16: <built-in method strip of str object at 0x000002DCB5B6CE30> ('127.0.0.1', 58495)
+2021-01-19 17:39:16: WRN ienesk
+2021-01-19 17:39:16: WEL ienesk
+2021-01-19 17:39:19: <built-in method strip of str object at 0x000002DCB5B6F830> ('127.0.0.1', 58495)
+2021-01-19 17:39:19: ODA ienesk
+2021-01-19 17:39:21: <built-in method strip of str object at 0x000002DCB5B6C230> ('127.0.0.1', 58495)
+2021-01-19 17:41:20: Baglanti kuruldu : ('127.0.0.1', 58641)
+2021-01-19 17:41:20: StartingWriteThread-0
+Starting ReadThread-
+2021-01-19 17:41:24: Baglanti kuruldu : ('127.0.0.1', 58643)
+2021-01-19 17:41:24: StartingWriteThread-1
+Starting ReadThread-
+2021-01-19 17:41:47: <built-in method strip of str object at 0x000001DC744ADC30> ('127.0.0.1', 58641)
+2021-01-19 17:41:47: WRN ienesk
+2021-01-19 17:41:47: WEL ienesk
+2021-01-19 17:41:53: <built-in method strip of str object at 0x000001DC744ADB30> ('127.0.0.1', 58643)
+2021-01-19 17:41:53: WRN mehmet
+2021-01-19 17:41:53: WEL mehmet
+2021-01-19 17:41:57: <built-in method strip of str object at 0x000001DC744A79F0> ('127.0.0.1', 58641)
+2021-01-19 17:41:57: ODA ienesk
+2021-01-19 17:41:58: <built-in method strip of str object at 0x000001DC744B3070> ('127.0.0.1', 58641)
+2021-01-19 17:41:58: BIE ienesk
+2021-01-19 17:42:04: <built-in method strip of str object at 0x000001DC744A77B0> ('127.0.0.1', 58643)
+2021-01-19 17:42:04: BIE mehmet
+2021-01-19 17:42:09: <built-in method strip of str object at 0x000001DC744A7270> ('127.0.0.1', 58641)
+2021-01-19 17:42:09: OKB mehmet
+2021-01-19 17:42:28: <built-in method strip of str object at 0x000001DC744A7570> ('127.0.0.1', 58643)
+2021-01-19 17:42:28: BIE mehmet
+2021-01-19 17:43:52: Baglanti kuruldu : ('127.0.0.1', 58795)
+2021-01-19 17:43:52: StartingWriteThread-0
+Starting ReadThread-
+2021-01-19 17:43:55: Baglanti kuruldu : ('127.0.0.1', 58799)
+2021-01-19 17:43:55: StartingWriteThread-1
+Starting ReadThread-
+2021-01-19 17:43:59: <built-in method strip of str object at 0x000001AA1DB1FEB0> ('127.0.0.1', 58799)
+2021-01-19 17:43:59: WRN ienesk
+2021-01-19 17:43:59: WEL ienesk
+2021-01-19 17:44:05: <built-in method strip of str object at 0x000001AA1DB1DCF0> ('127.0.0.1', 58799)
+2021-01-19 17:44:05: ODA ienesk
+2021-01-19 17:44:06: <built-in method strip of str object at 0x000001AA1DB17570> ('127.0.0.1', 58799)
+2021-01-19 17:44:06: BIE ienesk
+2021-01-19 17:44:09: <built-in method strip of str object at 0x000001AA1DB17670> ('127.0.0.1', 58795)
+2021-01-19 17:44:09: WRN mehmet
+2021-01-19 17:44:09: WEL mehmet
+2021-01-19 17:44:12: <built-in method strip of str object at 0x000001AA1DB17470> ('127.0.0.1', 58795)
+2021-01-19 17:44:12: BIE mehmet
+2021-01-19 17:44:18: <built-in method strip of str object at 0x000001AA1DB17270> ('127.0.0.1', 58799)
+2021-01-19 17:44:18: OKB mehmet
+2021-01-19 17:44:22: <built-in method strip of str object at 0x000001AA1DB175B0> ('127.0.0.1', 58795)
+2021-01-19 17:44:26: <built-in method strip of str object at 0x000001AA1DB17070> ('127.0.0.1', 58799)
+2021-01-19 17:44:26: LST Odadaki kullanicilar:ienesk(yonetici):
+2021-01-19 17:49:23: <built-in method strip of str object at 0x000001AA1DB170F0> ('127.0.0.1', 58799)
+2021-01-19 17:49:23: ERR 
+2021-01-19 17:50:36: Baglanti kuruldu : ('127.0.0.1', 59523)
+2021-01-19 17:50:36: StartingWriteThread-0
+Starting ReadThread-
+2021-01-19 17:50:38: Baglanti kuruldu : ('127.0.0.1', 59525)
+2021-01-19 17:50:38: StartingWriteThread-1
+Starting ReadThread-
+2021-01-19 17:50:55: <built-in method strip of str object at 0x0000025ADC39DF30> ('127.0.0.1', 59525)
+2021-01-19 17:50:55: WRN mehmet
+2021-01-19 17:50:55: WEL mehmet
+2021-01-19 17:51:02: <built-in method strip of str object at 0x0000025ADC39D130> ('127.0.0.1', 59523)
+2021-01-19 17:51:02: WRN ienesk
+2021-01-19 17:51:02: WEL ienesk
+2021-01-19 17:51:12: <built-in method strip of str object at 0x0000025ADC3978B0> ('127.0.0.1', 59523)
+2021-01-19 17:51:12: ODA ienesk
+2021-01-19 17:51:13: <built-in method strip of str object at 0x0000025ADC3975B0> ('127.0.0.1', 59523)
+2021-01-19 17:51:13: BIE ienesk
+2021-01-19 17:51:18: <built-in method strip of str object at 0x0000025ADC397630> ('127.0.0.1', 59525)
+2021-01-19 17:51:18: BIE mehmet
+2021-01-19 17:51:30: <built-in method strip of str object at 0x0000025ADC3976F0> ('127.0.0.1', 59523)
+2021-01-19 17:51:30: OKB mehmet
+2021-01-19 17:51:34: <built-in method strip of str object at 0x0000025ADC3978B0> ('127.0.0.1', 59523)
+2021-01-19 17:51:34: LSB mehmet
+2021-01-19 17:51:39: <built-in method strip of str object at 0x0000025ADC3976F0> ('127.0.0.1', 59525)
+2021-01-19 17:51:39: BND Bu odaya giremezsiniz, banlisiniz.
+2021-01-19 17:52:56: <built-in method strip of str object at 0x0000025ADC39D1B0> ('127.0.0.1', 59525)
+2021-01-19 17:52:56: LST ienesk:mehmet
+2021-01-19 17:53:00: <built-in method strip of str object at 0x0000025ADC39D5B0> ('127.0.0.1', 59523)
+2021-01-19 17:53:00: LST ienesk:mehmet
+2021-01-19 17:53:09: <built-in method strip of str object at 0x0000025ADC39D2F0> ('127.0.0.1', 59523)
+2021-01-19 17:53:09: LSM oda:oda
+2021-01-19 17:53:30: <built-in method strip of str object at 0x0000025ADC39D5B0> ('127.0.0.1', 59525)
+2021-01-19 17:53:30: BND Bu odaya giremezsiniz, banlisiniz.
+2021-01-19 17:54:34: <built-in method strip of str object at 0x0000025ADC382030> ('127.0.0.1', 59523)
+2021-01-19 17:54:34: LST Odadaki kullanicilar:ienesk(yonetici):
+2021-01-19 17:55:26: <built-in method strip of str object at 0x0000025ADC3976F0> ('127.0.0.1', 59525)
+2021-01-19 17:55:26: LSM 
+2021-01-19 17:55:35: <built-in method strip of str object at 0x0000025ADC39BA50> ('127.0.0.1', 59525)
+2021-01-19 17:55:35: ERR 
+2021-01-19 17:55:36: <built-in method strip of str object at 0x0000025ADC39F770> ('127.0.0.1', 59525)
+2021-01-19 17:55:36: BYE mehmet
+2021-01-19 18:00:56: Baglanti kuruldu : ('127.0.0.1', 60277)
+2021-01-19 18:00:56: StartingWriteThread-0
+Starting ReadThread-
+2021-01-19 18:01:01: <built-in method strip of str object at 0x00000208E5ACF1F0> ('127.0.0.1', 60277)
+2021-01-19 18:01:01: WRN mehmet
+2021-01-19 18:01:01: WEL mehmet
+2021-01-19 18:01:42: Baglanti kuruldu : ('127.0.0.1', 60306)
+2021-01-19 18:01:42: StartingWriteThread-1
+Starting ReadThread-
+2021-01-19 18:01:50: <built-in method strip of str object at 0x00000208E5ACD2B0> ('127.0.0.1', 60306)
+2021-01-19 18:01:50: WRN ienesk
+2021-01-19 18:01:50: WEL ienesk
+2021-01-19 18:01:52: <built-in method strip of str object at 0x00000208E5BE3FB0> ('127.0.0.1', 60306)
+2021-01-19 18:01:52: ODA ienesk
+2021-01-19 18:01:54: <built-in method strip of str object at 0x00000208E5AC75B0> ('127.0.0.1', 60306)
+2021-01-19 18:01:54: BIE ienesk
+2021-01-19 18:01:58: <built-in method strip of str object at 0x00000208E5AC78B0> ('127.0.0.1', 60277)
+2021-01-19 18:01:58: BIE mehmet
+2021-01-19 18:02:03: <built-in method strip of str object at 0x00000208E5AC77F0> ('127.0.0.1', 60306)
+2021-01-19 18:02:03: ERR 
+2021-01-19 18:02:09: <built-in method strip of str object at 0x00000208E5AC7E70> ('127.0.0.1', 60306)
+2021-01-19 18:02:09: OKB mehmet
+2021-01-19 18:02:19: <built-in method strip of str object at 0x00000208E5AC7270> ('127.0.0.1', 60277)
+2021-01-19 18:02:19: BND Bu odaya giremezsiniz, banlisiniz.
+2021-01-19 18:08:03: Baglanti kuruldu : ('127.0.0.1', 60677)
+2021-01-19 18:08:03: StartingWriteThread-0
+Starting ReadThread-
+2021-01-19 18:08:07: Baglanti kuruldu : ('127.0.0.1', 60680)
+2021-01-19 18:08:07: StartingWriteThread-1
+Starting ReadThread-
+2021-01-19 18:08:16: <built-in method strip of str object at 0x000001CA63DEDA30> ('127.0.0.1', 60677)
+2021-01-19 18:08:16: WRN ienesk
+2021-01-19 18:08:16: WEL ienesk
+2021-01-19 18:08:22: <built-in method strip of str object at 0x000001CA63DE7830> ('127.0.0.1', 60680)
+2021-01-19 18:08:22: WRN mehmet
+2021-01-19 18:08:22: WEL mehmet
+2021-01-19 18:08:42: <built-in method strip of str object at 0x000001CA63DE7930> ('127.0.0.1', 60680)
+2021-01-19 18:08:42: ODA mehmet
+2021-01-19 18:08:44: <built-in method strip of str object at 0x000001CA63DE7470> ('127.0.0.1', 60680)
+2021-01-19 18:08:44: BIE mehmet
+2021-01-19 18:08:48: <built-in method strip of str object at 0x000001CA63DE7970> ('127.0.0.1', 60677)
+2021-01-19 18:08:48: BIE ienesk
+2021-01-19 18:08:56: <built-in method strip of str object at 0x000001CA63DED7F0> ('127.0.0.1', 60680)
+2021-01-19 18:08:56: LST Odadaki kullanicilar:mehmet(yonetici):ienesk(normal):
+2021-01-19 18:09:04: <built-in method strip of str object at 0x000001CA63DEFEB0> ('127.0.0.1', 60680)
+2021-01-19 18:09:04: OKB ienesk
+2021-01-19 18:09:10: <built-in method strip of str object at 0x000001CA63DE70B0> ('127.0.0.1', 60677)
+2021-01-19 18:09:10: BND  Bu odaya giremezsiniz, banlisiniz.
+2021-01-19 18:10:16: Baglanti kuruldu : ('127.0.0.1', 60832)
+2021-01-19 18:10:16: StartingWriteThread-0
+Starting ReadThread-
+2021-01-19 18:10:20: <built-in method strip of str object at 0x000001C40BA1DD30> ('127.0.0.1', 60832)
+2021-01-19 18:10:20: ERR 
+2021-01-19 18:10:24: <built-in method strip of str object at 0x000001C40BA1D970> ('127.0.0.1', 60832)
+2021-01-19 18:10:24: WRN a
+2021-01-19 18:10:24: WEL a
+2021-01-19 18:10:28: Baglanti kuruldu : ('127.0.0.1', 60839)
+2021-01-19 18:10:28: StartingWriteThread-1
+Starting ReadThread-
+2021-01-19 18:10:33: <built-in method strip of str object at 0x000001C40BA1FAF0> ('127.0.0.1', 60839)
+2021-01-19 18:10:33: WRN b
+2021-01-19 18:10:33: WEL b
+2021-01-19 18:10:37: <built-in method strip of str object at 0x000001C40BA1D3B0> ('127.0.0.1', 60839)
+2021-01-19 18:10:37: ODA b
+2021-01-19 18:10:39: <built-in method strip of str object at 0x000001C40BA175F0> ('127.0.0.1', 60839)
+2021-01-19 18:10:39: ERR 
+2021-01-19 18:10:44: <built-in method strip of str object at 0x000001C40BA178B0> ('127.0.0.1', 60839)
+2021-01-19 18:10:44: BIE b
+2021-01-19 18:10:50: <built-in method strip of str object at 0x000001C40BA1D2F0> ('127.0.0.1', 60832)
+2021-01-19 18:10:50: BIE a
+2021-01-19 18:10:59: <built-in method strip of str object at 0x000001C40BA17F70> ('127.0.0.1', 60839)
+2021-01-19 18:10:59: OKB a
+2021-01-19 18:11:08: <built-in method strip of str object at 0x000001C40BA178B0> ('127.0.0.1', 60832)
+2021-01-19 18:11:08: BND  Bu odaya giremezsiniz banlisiniz.
+2021-01-19 18:15:24: <built-in method strip of str object at 0x000001C40BA1D2F0> ('127.0.0.1', 60839)
+2021-01-19 18:15:24: LSM B:B
+2021-01-19 18:17:37: <built-in method strip of str object at 0x000001C40BA171B0> ('127.0.0.1', 60839)
+2021-01-19 18:17:37: ODA b
+2021-01-19 18:17:44: <built-in method strip of str object at 0x000001C40BA175B0> ('127.0.0.1', 60839)
+2021-01-19 18:17:44: BIE b
+2021-01-19 18:17:47: <built-in method strip of str object at 0x000001C40BA17F70> ('127.0.0.1', 60839)
+2021-01-19 18:17:47: LSM B:B:A
+2021-01-19 18:18:10: <built-in method strip of str object at 0x000001C40BA175B0> ('127.0.0.1', 60839)
+2021-01-19 18:18:10: BYE b
+2021-01-19 18:18:10: BYE b
+2021-01-19 18:18:10: ExitingWriteThread-1
+2021-01-19 18:43:49: Baglanti kuruldu : ('127.0.0.1', 64345)
+2021-01-19 18:43:49: StartingWriteThread-0
+Starting ReadThread-
+2021-01-19 18:43:54: Baglanti kuruldu : ('127.0.0.1', 64350)
+2021-01-19 18:43:54: StartingWriteThread-1
+Starting ReadThread-
+2021-01-19 18:44:00: <built-in method strip of str object at 0x000002720680F270> ('127.0.0.1', 64350)
+2021-01-19 18:44:00: WRN a
+2021-01-19 18:44:00: WEL a
+2021-01-19 18:44:05: <built-in method strip of str object at 0x000002720680FA30> ('127.0.0.1', 64345)
+2021-01-19 18:44:05: WRN b
+2021-01-19 18:44:05: WEL b
+2021-01-19 18:44:10: <built-in method strip of str object at 0x0000027206809DF0> ('127.0.0.1', 64350)
+2021-01-19 18:44:10: ODA a
+2021-01-19 18:44:12: <built-in method strip of str object at 0x0000027206812070> ('127.0.0.1', 64350)
+2021-01-19 18:44:12: BIE a
+2021-01-19 18:44:19: <built-in method strip of str object at 0x0000027206809CB0> ('127.0.0.1', 64345)
+2021-01-19 18:44:19: NOD b
+2021-01-19 18:44:23: <built-in method strip of str object at 0x0000027206809BF0> ('127.0.0.1', 64345)
+2021-01-19 18:44:23: BIE b
+2021-01-19 18:44:41: <built-in method strip of str object at 0x0000027206809AF0> ('127.0.0.1', 64350)
+2021-01-19 18:44:41: LST Odadaki kullanicilar:a(yonetici):b(normal):
+2021-01-19 18:44:58: <built-in method strip of str object at 0x0000027206809570> ('127.0.0.1', 64350)
+2021-01-19 18:44:58: ERR 
+2021-01-19 18:47:03: <built-in method strip of str object at 0x0000027206809AF0> ('127.0.0.1', 64350)
+2021-01-19 18:47:03: ERR 
+2021-01-19 18:50:23: Baglanti kuruldu : ('127.0.0.1', 64775)
+2021-01-19 18:50:23: StartingWriteThread-0
+Starting ReadThread-
+2021-01-19 18:50:33: <built-in method strip of str object at 0x00000175670913B0> ('127.0.0.1', 64775)
+2021-01-19 18:50:33: WRN a
+2021-01-19 18:50:33: WEL a
+2021-01-19 18:50:35: <built-in method strip of str object at 0x0000017566FC99F0> ('127.0.0.1', 64775)
+2021-01-19 18:50:35: ODA a
+2021-01-19 18:50:39: <built-in method strip of str object at 0x000001756708E970> ('127.0.0.1', 64775)
+2021-01-19 18:50:39: OKC oda
+2021-01-19 18:50:51: <built-in method strip of str object at 0x0000017567091430> ('127.0.0.1', 64775)
+2021-01-19 18:50:51: LSM 
+2021-01-19 18:51:13: <built-in method strip of str object at 0x000001756708EBB0> ('127.0.0.1', 64775)
+2021-01-19 18:51:13: ODA a
+2021-01-19 18:51:14: <built-in method strip of str object at 0x000001756708EB70> ('127.0.0.1', 64775)
+2021-01-19 18:51:14: BIE a
+2021-01-19 18:51:17: <built-in method strip of str object at 0x000001756708ECB0> ('127.0.0.1', 64775)
+2021-01-19 18:51:17: OKC oda
+2021-01-19 18:51:18: <built-in method strip of str object at 0x00000175670914B0> ('127.0.0.1', 64775)
+2021-01-19 18:51:18: LSM oda
+2021-01-19 18:51:48: <built-in method strip of str object at 0x000001756708E970> ('127.0.0.1', 64775)
+2021-01-19 18:51:48: LST a:b
+2021-01-19 18:51:50: <built-in method strip of str object at 0x000001756708EA30> ('127.0.0.1', 64775)
+2021-01-19 18:51:50: LST 
+2021-01-19 18:57:20: Baglanti kuruldu : ('127.0.0.1', 65290)
+2021-01-19 18:57:20: StartingWriteThread-1
+Starting ReadThread-
+2021-01-19 18:57:24: <built-in method strip of str object at 0x000001756708E3B0> ('127.0.0.1', 65290)
+2021-01-19 18:57:24: WRN b
+2021-01-19 18:57:24: WEL b
+2021-01-19 18:57:30: <built-in method strip of str object at 0x0000017567088BF0> ('127.0.0.1', 65290)
+2021-01-19 18:57:30: ERR 
+2021-01-19 18:57:37: <built-in method strip of str object at 0x0000017567091370> ('127.0.0.1', 64775)
+2021-01-19 18:57:37: ERR 
+2021-01-19 18:57:42: <built-in method strip of str object at 0x00000175670912B0> ('127.0.0.1', 64775)
+2021-01-19 18:57:42: LST 
+2021-01-19 18:57:47: <built-in method strip of str object at 0x0000017567088830> ('127.0.0.1', 64775)
+2021-01-19 18:57:47: ODA a
+2021-01-19 18:57:54: <built-in method strip of str object at 0x0000017567091370> ('127.0.0.1', 64775)
+2021-01-19 18:57:54: LST oda
+2021-01-19 18:58:03: <built-in method strip of str object at 0x0000017567088CF0> ('127.0.0.1', 64775)
+2021-01-19 18:58:03: BIE a
+2021-01-19 18:58:06: <built-in method strip of str object at 0x0000017567088730> ('127.0.0.1', 65290)
+2021-01-19 18:58:06: BIE b
+2021-01-19 18:58:16: <built-in method strip of str object at 0x0000017567088670> ('127.0.0.1', 64775)
+2021-01-19 18:58:16: AMK b
+2021-01-19 18:58:48: <built-in method strip of str object at 0x0000017567088EF0> ('127.0.0.1', 64775)
+2021-01-19 18:58:48: LST Odadaki kullanicilar:a(yonetici):b(yonetici):
+2021-01-19 19:01:37: Baglanti kuruldu : ('127.0.0.1', 49226)
+2021-01-19 19:01:37: StartingWriteThread-2
+Starting ReadThread-
+2021-01-19 19:01:42: <built-in method strip of str object at 0x000001756707AE70> ('127.0.0.1', 49226)
+2021-01-19 19:01:58: <built-in method strip of str object at 0x000001756707ACF0> ('127.0.0.1', 49226)
+2021-01-19 19:01:58: PIN 
+2021-01-19 19:01:58: PON 
+2021-01-19 21:21:16: Baglanti kuruldu : ('127.0.0.1', 60946)
+2021-01-19 21:21:16: StartingWriteThread-0
+Starting ReadThread-
+2021-01-19 21:21:21: <built-in method strip of str object at 0x00000275C85B6430> ('127.0.0.1', 60946)
+2021-01-19 21:21:21: LRR 
+2021-01-19 21:23:03: <built-in method strip of str object at 0x00000275C85AF430> ('127.0.0.1', 60946)
+2021-01-19 21:23:03: WRN a
+2021-01-19 21:23:03: WEL a
+2021-01-19 21:23:23: <built-in method strip of str object at 0x00000275C85AF530> ('127.0.0.1', 60946)
+2021-01-19 21:23:23: LST 
+2021-01-19 21:23:40: <built-in method strip of str object at 0x00000275C85AFEF0> ('127.0.0.1', 60946)
+2021-01-19 21:23:40: ERR 
+2021-01-19 21:35:00: Baglanti kuruldu : ('127.0.0.1', 62620)
+2021-01-19 21:35:00: StartingWriteThread-0
+Starting ReadThread-
+2021-01-19 21:35:05: <built-in method strip of str object at 0x000002BB32E23570> ('127.0.0.1', 62620)
+2021-01-19 21:35:05: WRN a
+2021-01-19 21:35:05: WEL a
+2021-01-19 21:35:11: <built-in method strip of str object at 0x000002BB32E236F0> ('127.0.0.1', 62620)
+2021-01-19 21:35:11: ODA a
+2021-01-19 21:35:23: Baglanti kuruldu : ('127.0.0.1', 62648)
+2021-01-19 21:35:23: StartingWriteThread-1
+Starting ReadThread-
+2021-01-19 21:35:32: <built-in method strip of str object at 0x000002BB32E23530> ('127.0.0.1', 62648)
+2021-01-19 21:35:32: WRN b
+2021-01-19 21:35:32: WEL b
+2021-01-19 21:36:02: <built-in method strip of str object at 0x000002BB32E23370> ('127.0.0.1', 62648)
+2021-01-19 21:36:02: BIE b
+2021-01-19 21:36:09: <built-in method strip of str object at 0x000002BB32E1AC30> ('127.0.0.1', 62620)
+2021-01-19 21:36:09: BIE a
+2021-01-19 21:36:37: <built-in method strip of str object at 0x000002BB32E236F0> ('127.0.0.1', 62620)
+2021-01-19 21:36:37: ERR 
+2021-01-19 21:36:43: <built-in method strip of str object at 0x000002BB32E1AC30> ('127.0.0.1', 62620)
+2021-01-19 21:36:43: ERR 
+2021-01-19 21:36:53: <built-in method strip of str object at 0x000002BB32E233B0> ('127.0.0.1', 62620)
+2021-01-19 21:36:53: NRM oda:selam
+2021-01-19 21:37:44: <built-in method strip of str object at 0x000002BB32E1AAB0> ('127.0.0.1', 62648)
+2021-01-19 21:37:44: NRM oda:selam
+2021-01-19 21:39:06: Baglanti kuruldu : ('127.0.0.1', 62845)
+2021-01-19 21:39:06: StartingWriteThread-0
+Starting ReadThread-
+2021-01-19 21:39:10: <built-in method strip of str object at 0x000001BA4B2938B0> ('127.0.0.1', 62845)
+2021-01-19 21:39:10: WRN a
+2021-01-19 21:39:10: WEL a
+2021-01-19 21:39:14: <built-in method strip of str object at 0x000001BA4B28F470> ('127.0.0.1', 62845)
+2021-01-19 21:39:14: ODA a
+2021-01-19 21:39:16: <built-in method strip of str object at 0x000001BA4B28FDB0> ('127.0.0.1', 62845)
+2021-01-19 21:39:16: BIE a
+2021-01-19 21:39:25: Baglanti kuruldu : ('127.0.0.1', 62855)
+2021-01-19 21:39:25: StartingWriteThread-1
+Starting ReadThread-
+2021-01-19 21:39:28: <built-in method strip of str object at 0x000001BA4B28F830> ('127.0.0.1', 62855)
+2021-01-19 21:39:28: WRN b
+2021-01-19 21:39:28: WEL b
+2021-01-19 21:39:31: <built-in method strip of str object at 0x000001BA4B28AC30> ('127.0.0.1', 62855)
+2021-01-19 21:39:31: BIE b
+2021-01-19 21:39:36: <built-in method strip of str object at 0x000001BA4B28F630> ('127.0.0.1', 62855)
+2021-01-19 21:39:36: SEN 
+2021-01-19 21:39:59: <built-in method strip of str object at 0x000001BA4B28AEB0> ('127.0.0.1', 62855)
+2021-01-19 21:39:59: NRM BB:ss
+2021-01-19 21:40:40: <built-in method strip of str object at 0x000001BA4B28A9B0> ('127.0.0.1', 62855)
+2021-01-19 21:40:40: BYE b
+2021-01-19 21:40:40: BYE b
+2021-01-19 21:40:40: ExitingWriteThread-1
+2021-01-19 21:41:20: <built-in method strip of str object at 0x000001BA4B28F1B0> ('127.0.0.1', 62845)
+2021-01-19 21:41:20: ODA a
+2021-01-19 21:41:34: Baglanti kuruldu : ('127.0.0.1', 62987)
+2021-01-19 21:41:34: StartingWriteThread-2
+Starting ReadThread-
+2021-01-19 21:41:38: <built-in method strip of str object at 0x000001BA4B293630> ('127.0.0.1', 62987)
+2021-01-19 21:41:38: LRR 
+2021-01-19 21:41:52: <built-in method strip of str object at 0x000001BA4B28AF30> ('127.0.0.1', 62987)
+2021-01-19 21:41:52: NOP 
+2021-01-19 21:41:58: <built-in method strip of str object at 0x000001BA4B28FC70> ('127.0.0.1', 62987)
+2021-01-19 21:41:58: WRN b
+2021-01-19 21:41:58: WEL b
+2021-01-19 21:41:58: ExitingWriteThread-0
+2021-01-19 21:42:03: <built-in method strip of str object at 0x000001BA4B28F1B0> ('127.0.0.1', 62987)
+2021-01-19 21:42:03: NOD b
+2021-01-19 21:42:06: <built-in method strip of str object at 0x000001BA4B28F4F0> ('127.0.0.1', 62987)
+2021-01-19 21:42:06: ODA b
+2021-01-19 21:42:12: <built-in method strip of str object at 0x000001BA4B28AEB0> ('127.0.0.1', 62987)
+2021-01-19 21:42:12: NEN den
+2021-01-19 21:42:38: <built-in method strip of str object at 0x000001BA4B2933F0> ('127.0.0.1', 62987)
+2021-01-19 21:42:38: LST a:b
+2021-01-19 21:42:42: <built-in method strip of str object at 0x000001BA4B28F4F0> ('127.0.0.1', 62987)
+2021-01-19 21:42:42: LST oda:dene:den
+2021-01-19 21:42:53: <built-in method strip of str object at 0x000001BA4B28A6F0> ('127.0.0.1', 62987)
+2021-01-19 21:42:53: LST oda:dene:den
+2021-01-19 21:43:11: <built-in method strip of str object at 0x000001BA4B28AEB0> ('127.0.0.1', 62987)
+2021-01-19 21:43:11: LST Odadaki kullanicilar:
+2021-01-19 21:43:15: <built-in method strip of str object at 0x000001BA4B28F0B0> ('127.0.0.1', 62987)
+2021-01-19 21:43:15: LST Odadaki kullanicilar:
+2021-01-19 21:43:19: <built-in method strip of str object at 0x000001BA4B28FC70> ('127.0.0.1', 62987)
+2021-01-19 21:43:19: LST Odadaki kullanicilar:a(yonetici):b(normal):
+2021-01-19 21:46:56: <built-in method strip of str object at 0x000001BA4B28F7B0> ('127.0.0.1', 62987)
+2021-01-19 21:46:56: LSM 
+2021-01-19 21:47:00: <built-in method strip of str object at 0x000001BA4B28A6F0> ('127.0.0.1', 62987)
+2021-01-19 21:47:00: BIE b
+2021-01-19 21:47:01: <built-in method strip of str object at 0x000001BA4B28A930> ('127.0.0.1', 62987)
+2021-01-19 21:47:01: LSM oda:oda
+2021-01-19 21:47:11: <built-in method strip of str object at 0x000001BA4B28F4F0> ('127.0.0.1', 62987)
+2021-01-19 21:47:11: BIE b
+2021-01-19 21:47:12: <built-in method strip of str object at 0x000001BA4B28F5B0> ('127.0.0.1', 62987)
+2021-01-19 21:47:12: LSM oda:oda:den
+2021-01-19 21:48:17: <built-in method strip of str object at 0x000001BA4B28AF30> ('127.0.0.1', 62987)
+2021-01-19 21:48:17: ERR 
+2021-01-19 21:48:18: <built-in method strip of str object at 0x000001BA4B28F5B0> ('127.0.0.1', 62987)
+2021-01-19 21:48:18: LST a:b
+2021-01-19 21:48:20: <built-in method strip of str object at 0x000001BA4B293D30> ('127.0.0.1', 62987)
+2021-01-19 21:48:20: LST oda:dene:den
+2021-01-19 21:49:02: <built-in method strip of str object at 0x000001BA4B28A870> ('127.0.0.1', 62987)
+2021-01-19 21:49:02: BIE b
+2021-01-19 21:49:04: <built-in method strip of str object at 0x000001BA4B28A930> ('127.0.0.1', 62987)
+2021-01-19 21:49:04: LST oda:dene:den
+2021-01-19 21:49:08: <built-in method strip of str object at 0x000001BA4B28F4F0> ('127.0.0.1', 62987)
+2021-01-19 21:49:08: LST oda:dene:den
+2021-01-19 21:50:01: <built-in method strip of str object at 0x000001BA4B28F5B0> ('127.0.0.1', 62987)
+2021-01-19 21:50:01: RQU oda
+2021-01-19 21:50:04: <built-in method strip of str object at 0x000001BA4B28A8F0> ('127.0.0.1', 62987)
+2021-01-19 21:50:04: LST oda:dene:den
+2021-01-19 21:50:10: <built-in method strip of str object at 0x000001BA4B28F7B0> ('127.0.0.1', 62987)
+2021-01-19 21:50:10: LSM oda:den:dene
+2021-01-19 21:50:15: <built-in method strip of str object at 0x000001BA4B28A8F0> ('127.0.0.1', 62987)
+2021-01-19 21:50:15: LSM oda:den:dene
+2021-01-19 21:50:19: <built-in method strip of str object at 0x000001BA4B28A870> ('127.0.0.1', 62987)
+2021-01-19 21:50:19: RQU oda
+2021-01-19 21:50:22: <built-in method strip of str object at 0x000001BA4B28A6F0> ('127.0.0.1', 62987)
+2021-01-19 21:50:22: LSM den:dene
+2021-01-19 21:50:31: <built-in method strip of str object at 0x000001BA4B28AF30> ('127.0.0.1', 62987)
+2021-01-19 21:50:31: RQU den
+2021-01-19 21:50:32: <built-in method strip of str object at 0x000001BA4B28A6F0> ('127.0.0.1', 62987)
+2021-01-19 21:50:32: LSM dene
+2021-01-19 21:51:24: <built-in method strip of str object at 0x000001BA4B28AF30> ('127.0.0.1', 62987)
+2021-01-19 21:51:24: LSB 
+2021-01-19 21:51:39: <built-in method strip of str object at 0x000001BA4B28F1F0> ('127.0.0.1', 62987)
+2021-01-19 21:51:39: LST a
+2021-01-19 21:51:46: <built-in method strip of str object at 0x000001BA4B28A6F0> ('127.0.0.1', 62987)
+2021-01-19 21:51:46: LST Odadaki kullanicilar:a(yonetici):
+2021-01-19 21:51:57: <built-in method strip of str object at 0x000001BA4B28FD30> ('127.0.0.1', 62987)
+2021-01-19 21:51:57: RNE 
+2021-01-19 21:52:28: <built-in method strip of str object at 0x000001BA4B28A870> ('127.0.0.1', 62987)
+2021-01-19 21:52:28: LST Odadaki kullanicilar:
+2021-01-19 21:52:32: <built-in method strip of str object at 0x000001BA4B28FD30> ('127.0.0.1', 62987)
+2021-01-19 21:52:32: ERR 
+2021-01-19 21:52:35: <built-in method strip of str object at 0x000001BA4B28FC70> ('127.0.0.1', 62987)
+2021-01-19 21:52:35: LST Odadaki kullanicilar:b(normal):
+2021-01-19 21:53:49: <built-in method strip of str object at 0x000001BA4B28FDB0> ('127.0.0.1', 62987)
+2021-01-19 21:53:49: NAD b
+2021-01-19 21:53:59: <built-in method strip of str object at 0x000001BA4B28AF30> ('127.0.0.1', 62987)
+2021-01-19 21:53:59: RNF 
+2021-01-19 21:54:05: <built-in method strip of str object at 0x000001BA4B28A870> ('127.0.0.1', 62987)
+2021-01-19 21:54:05: ODA b
+2021-01-19 21:54:08: <built-in method strip of str object at 0x000001BA4B28A8F0> ('127.0.0.1', 62987)
+2021-01-19 21:54:08: ERR 
+2021-01-19 21:54:22: <built-in method strip of str object at 0x000001BA4B2933F0> ('127.0.0.1', 62987)
+2021-01-19 21:54:22: ERR 
+2021-01-19 21:54:35: <built-in method strip of str object at 0x000001BA4B28A930> ('127.0.0.1', 62987)
+2021-01-19 21:54:35: LST oda:dene:den
+2021-01-19 21:54:37: <built-in method strip of str object at 0x000001BA4B2933F0> ('127.0.0.1', 62987)
+2021-01-19 21:54:37: LST oda:dene:den
+2021-01-19 21:54:42: <built-in method strip of str object at 0x000001BA4B28F1B0> ('127.0.0.1', 62987)
+2021-01-19 21:54:42: ODA b
+2021-01-19 21:54:44: <built-in method strip of str object at 0x000001BA4B28A5F0> ('127.0.0.1', 62987)
+2021-01-19 21:54:44: LST oda:dene:den:kur
+2021-01-19 21:54:48: <built-in method strip of str object at 0x000001BA4B28A870> ('127.0.0.1', 62987)
+2021-01-19 21:54:48: BIE b
+2021-01-19 21:55:01: <built-in method strip of str object at 0x000001BA4B28F7B0> ('127.0.0.1', 62987)
+2021-01-19 21:55:01: OKC kur
+2021-01-19 21:55:04: <built-in method strip of str object at 0x000001BA4B28F1B0> ('127.0.0.1', 62987)
+2021-01-19 21:55:04: LST oda:dene:den
+2021-01-19 21:55:55: <built-in method strip of str object at 0x000001BA4B28F7B0> ('127.0.0.1', 62987)
+2021-01-19 21:55:55: RNF 
+2021-01-19 21:56:02: <built-in method strip of str object at 0x000001BA4B28A5F0> ('127.0.0.1', 62987)
+2021-01-19 21:56:02: LST a:b
+2021-01-19 21:56:12: <built-in method strip of str object at 0x000001BA4B28A770> ('127.0.0.1', 62987)
+2021-01-19 21:56:12: ERR 
+2021-01-19 21:56:17: <built-in method strip of str object at 0x000001BA4B28AF30> ('127.0.0.1', 62987)
+2021-01-19 21:56:17: PRV a:selam
+2021-01-19 21:56:17: OKP 
+2021-01-19 21:56:30: <built-in method strip of str object at 0x000001BA4B28F630> ('127.0.0.1', 62987)
+2021-01-19 21:56:30: NOP x
+2021-01-19 21:56:43: <built-in method strip of str object at 0x000001BA4B2933F0> ('127.0.0.1', 62987)
+2021-01-19 21:56:43: LSM dene
+2021-01-19 21:56:49: <built-in method strip of str object at 0x000001BA4B28A6F0> ('127.0.0.1', 62987)
+2021-01-19 21:56:49: LSM dene
+2021-01-19 21:56:54: <built-in method strip of str object at 0x000001BA4B28A5F0> ('127.0.0.1', 62987)
+2021-01-19 21:56:58: <built-in method strip of str object at 0x000001BA4B28FD30> ('127.0.0.1', 62987)
+2021-01-19 21:56:58: LSM dene
+2021-01-19 21:57:02: <built-in method strip of str object at 0x000001BA4B28AF30> ('127.0.0.1', 62987)
+2021-01-19 21:57:02: LST Odadaki kullanicilar:b(normal):
+2021-01-19 21:57:33: Baglanti kuruldu : ('127.0.0.1', 63838)
+2021-01-19 21:57:33: StartingWriteThread-3
+Starting ReadThread-
+2021-01-19 21:57:37: <built-in method strip of str object at 0x000001BA4B28F1B0> ('127.0.0.1', 63838)
+2021-01-19 21:57:37: ASI zaten giris yapildi
+2021-01-19 21:57:44: <built-in method strip of str object at 0x000001BA4B28A670> ('127.0.0.1', 63838)
+2021-01-19 21:57:44: SUC c
+2021-01-19 21:57:48: <built-in method strip of str object at 0x000001BA4B29D470> ('127.0.0.1', 63838)
+2021-01-19 21:57:48: WRN c
+2021-01-19 21:57:48: WEL c
+2021-01-19 21:57:54: <built-in method strip of str object at 0x000001BA4B29D4B0> ('127.0.0.1', 63838)
+2021-01-19 21:57:54: BIE c
+2021-01-19 21:58:04: <built-in method strip of str object at 0x000001BA4B28A5F0> ('127.0.0.1', 62987)
+2021-01-19 21:58:39: <built-in method strip of str object at 0x000001BA4B28AF30> ('127.0.0.1', 62987)
+2021-01-19 21:58:39: LST Odadaki kullanicilar:b(normal):c(normal):
+2021-01-19 21:58:53: <built-in method strip of str object at 0x000001BA4B28A770> ('127.0.0.1', 62987)
+2021-01-19 21:58:53: LST oda:dene:den
+2021-01-19 21:59:07: <built-in method strip of str object at 0x000001BA4B29D130> ('127.0.0.1', 62987)
+2021-01-19 21:59:07: ODA b
+2021-01-19 21:59:11: <built-in method strip of str object at 0x000001BA4B28A5F0> ('127.0.0.1', 62987)
+2021-01-19 21:59:11: BIE b
+2021-01-19 21:59:16: <built-in method strip of str object at 0x000001BA4B29DEB0> ('127.0.0.1', 63838)
+2021-01-19 21:59:16: BIE c
+2021-01-19 21:59:23: <built-in method strip of str object at 0x000001BA4B28A070> ('127.0.0.1', 62987)
+2021-01-19 21:59:23: AMK c
+2021-01-19 22:00:25: <built-in method strip of str object at 0x000001BA4B27CFB0> ('127.0.0.1', 62987)
+2021-01-19 22:00:25: LST Odadaki kullanicilar:b(yonetici):c(yonetici):
+2021-01-19 22:00:29: <built-in method strip of str object at 0x000001BA4B29DF30> ('127.0.0.1', 63838)
+2021-01-19 22:00:29: LST Odadaki kullanicilar:b(yonetici):c(yonetici):
+2021-01-19 22:00:56: <built-in method strip of str object at 0x000001BA4B28AF30> ('127.0.0.1', 62987)
+2021-01-19 22:00:56: ERR 
+2021-01-19 22:01:06: <built-in method strip of str object at 0x000001BA4B29D470> ('127.0.0.1', 62987)
+2021-01-19 22:01:06: UNF x
+2021-01-19 22:18:38: Baglanti kuruldu : ('127.0.0.1', 49582)
+2021-01-19 22:18:38: StartingWriteThread-0
+Starting ReadThread-
+2021-01-19 22:18:42: Baglanti kuruldu : ('127.0.0.1', 49588)
+2021-01-19 22:18:42: StartingWriteThread-1
+Starting ReadThread-
+2021-01-19 22:18:45: <built-in method strip of str object at 0x000002AA127E2430> ('127.0.0.1', 49582)
+2021-01-19 22:18:45: WRN a
+2021-01-19 22:18:45: WEL a
+2021-01-19 22:18:49: <built-in method strip of str object at 0x000002AA127DFF30> ('127.0.0.1', 49588)
+2021-01-19 22:18:49: WRN b
+2021-01-19 22:18:49: WEL b
+2021-01-19 22:18:55: <built-in method strip of str object at 0x000002AA127C4730> ('127.0.0.1', 49588)
+2021-01-19 22:18:55: ODA b
+2021-01-19 22:18:59: <built-in method strip of str object at 0x000002AA127DFC30> ('127.0.0.1', 49588)
+2021-01-19 22:18:59: BIE b
+2021-01-19 22:19:05: <built-in method strip of str object at 0x000002AA127DF270> ('127.0.0.1', 49582)
+2021-01-19 22:19:05: BIE a
+2021-01-19 22:19:07: <built-in method strip of str object at 0x000002AA127DFDF0> ('127.0.0.1', 49582)
+2021-01-19 22:19:07: RQU oda
+2021-01-19 22:19:27: <built-in method strip of str object at 0x000002AA127DAFB0> ('127.0.0.1', 49588)
+2021-01-19 22:19:27: UNF 
+2021-01-19 22:19:36: <built-in method strip of str object at 0x000002AA127DAF70> ('127.0.0.1', 49588)
+2021-01-19 22:19:36: ERR 
+2021-01-19 22:19:46: <built-in method strip of str object at 0x000002AA127DAB70> ('127.0.0.1', 49582)
+2021-01-19 22:19:46: BIE a
+2021-01-19 22:19:52: <built-in method strip of str object at 0x000002AA127DF030> ('127.0.0.1', 49588)
+2021-01-19 22:19:52: UNF 
+2021-01-19 22:19:58: <built-in method strip of str object at 0x000002AA127DAC70> ('127.0.0.1', 49588)
+2021-01-19 22:19:58: LST Odadaki kullanicilar:b(yonetici):a(normal):
+2021-01-19 22:20:13: <built-in method strip of str object at 0x000002AA127E2170> ('127.0.0.1', 49588)
+2021-01-19 22:20:13: ERR 
+2021-01-19 22:20:31: <built-in method strip of str object at 0x000002AA127DFC30> ('127.0.0.1', 49588)
+2021-01-19 22:20:31: LST Odadaki kullanicilar:b(yonetici):
+2021-01-19 22:20:35: <built-in method strip of str object at 0x000002AA127DF370> ('127.0.0.1', 49582)
+2021-01-19 22:20:35: LSM 
+2021-01-19 22:21:39: <built-in method strip of str object at 0x000002AA127DFDF0> ('127.0.0.1', 49582)
+2021-01-19 22:21:39: ODA a
+2021-01-19 22:21:44: <built-in method strip of str object at 0x000002AA127DF670> ('127.0.0.1', 49588)
+2021-01-19 22:21:44: BIE b
+2021-01-19 22:21:51: <built-in method strip of str object at 0x000002AA127DAEF0> ('127.0.0.1', 49582)
+2021-01-19 22:21:51: BIE a
+2021-01-19 22:22:01: <built-in method strip of str object at 0x000002AA127DA130> ('127.0.0.1', 49582)
+2021-01-19 22:22:01: OKK b
+2021-01-19 22:22:14: <built-in method strip of str object at 0x000002AA127DFDF0> ('127.0.0.1', 49588)
+2021-01-19 22:22:14: BIE b
+2021-01-19 22:22:23: <built-in method strip of str object at 0x000002AA127DAC30> ('127.0.0.1', 49582)
+2021-01-19 22:22:23: UNF b
+2021-01-19 22:22:30: <built-in method strip of str object at 0x000002AA127DAAB0> ('127.0.0.1', 49582)
+2021-01-19 22:22:30: LST Odadaki kullanicilar:a(yonetici):b(normal):
+2021-01-19 22:22:42: <built-in method strip of str object at 0x000002AA127DF230> ('127.0.0.1', 49582)
+2021-01-19 22:22:42: UNF Odadaki kullanicilar:a(yonetici):b(normal):
