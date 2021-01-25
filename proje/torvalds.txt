@@ -1,0 +1,12 @@
+RLS
+SIN torvalds:1972
+SUP torvalds:1974
+RLS
+RGM gentoo:selam
+ERM gentoo
+RGM gentoo:tekrarselam
+PRV tux:beni niye banladın?
+ERM ubuntu
+ULS ubuntu
+RGM ubuntu:hey
+KIC tux:ubuntu

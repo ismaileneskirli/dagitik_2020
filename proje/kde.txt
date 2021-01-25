@@ -1,0 +1,9 @@
+SUP kde:2020
+SIN kde:2020
+RLS
+ERM ubuntu
+ULS ubuntu
+CRM plasma
+ERM plasma
+RLS
+CLR plasma

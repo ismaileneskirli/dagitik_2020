@@ -1,0 +1,12 @@
+SUP tux:herring
+SUP tux:1994 
+SUP torvalds:1972
+SIN tux:1984
+SIN tux:1994
+CRM gentoo
+ERM gentoo
+KIC torvalds:gentoo
+BAN torvalds:gentoo
+CRM ubuntu
+ERM ubuntu
+MKA torvalds:ubuntu
